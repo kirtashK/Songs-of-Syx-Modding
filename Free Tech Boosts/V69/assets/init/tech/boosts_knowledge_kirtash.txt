@@ -1,0 +1,64 @@
+TREE: 
+{
+	0: [LABORATORY,LIBRARY,],
+	1: [UNIVERSITY,ADMIN,],
+},
+CATEGORY: 99,
+COLOR: 0_148_255,
+
+TECHS: 
+{
+
+	ADMIN: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_ADMIN_NORMAL>ADD: 0.1,
+		},
+	},
+	LABORATORY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_LABORATORY_NORMAL>ADD: 0.1,
+		},
+	},
+	LIBRARY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_LIBRARY_NORMAL>ADD: 0.1,
+		},
+	},
+	UNIVERSITY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_UNIVERSITY_NORMAL>ADD: 0.1,
+		},
+	},
+},

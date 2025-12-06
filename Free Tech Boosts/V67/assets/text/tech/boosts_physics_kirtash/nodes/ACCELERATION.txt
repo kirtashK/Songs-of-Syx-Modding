@@ -1,0 +1,2 @@
+NAME: "Acceleration boost",
+DESC: "Extra boost.",

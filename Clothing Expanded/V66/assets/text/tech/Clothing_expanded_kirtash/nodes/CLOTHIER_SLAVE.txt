@@ -1,0 +1,5 @@
+NAME: "Body straps",
+DESC: "Your slaver proposes a solution to these ungrateful slaves, what if we force them to wear straps and chains? That will surely make them more submissive.",
+
+
+

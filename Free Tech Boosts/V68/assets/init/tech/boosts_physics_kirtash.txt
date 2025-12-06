@@ -1,0 +1,94 @@
+TREE: 
+{
+	0: [HEALTH,LIFESPAN,TEMPRESIS,SOILING,],
+	1: [SPEED,ACCELERATION,STAMINA,_____,],
+},
+TECHS: 
+{
+
+	ACCELERATION: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			PHYSICS_ACCELERATION>ADD: 0.1,
+		},
+	},
+	HEALTH: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			PHYSICS_HEALTH>ADD: 0.1,
+		},
+	},
+	LIFESPAN: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			PHYSICS_DEATH_AGE>ADD: 0.1,
+		},
+	},
+	SOILING: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			PHYSICS_SOILING>ADD: 0.1,
+		},
+	},
+	SPEED: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			PHYSICS_SPEED>ADD: 0.1,
+		},
+	},
+	STAMINA: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			PHYSICS_STAMINA>ADD: 0.1,
+		},
+	},
+	TEMPRESIS: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			PHYSICS_RESISTANCE_HOT>ADD: 0.1,
+			PHYSICS_RESISTANCE_COLD>ADD: 0.1,
+		},
+	},
+},

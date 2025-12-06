@@ -1,0 +1,2 @@
+NAME: "Happiness boost",
+DESC: "Extra boost.",

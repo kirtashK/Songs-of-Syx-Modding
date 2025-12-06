@@ -1,0 +1,3 @@
+NAME: "Pike",
+NAMES: "Pikes",
+DESC: "Pikes are very long shafts with a sharp blade at the end, they deal high pierce damage and increase defence skill, but due their length, they reduce acceleration and attack speed.",

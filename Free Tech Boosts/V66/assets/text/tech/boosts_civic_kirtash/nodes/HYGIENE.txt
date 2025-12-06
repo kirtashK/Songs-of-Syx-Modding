@@ -1,0 +1,2 @@
+NAME: "Hygiene boost",
+DESC: "Less chance for diseases.",

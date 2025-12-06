@@ -1,0 +1,33 @@
+[h3] Supported versions [/h3]
+V65 - V69
+
+[h3] Description [/h3]
+Adds the following items that can be equipped by citizens just like vanilla clothes to gain bonuses or fulfillment:
+
+[list]
+[img] https://i.imgur.com/Zz2kSS7.png [/img]
+[img] https://i.imgur.com/myTXtO7.png [/img]
+[img] https://i.imgur.com/8DMnnj6.png [/img]
+[img] https://i.imgur.com/r8w6XAl.png [/img]
+[img] https://i.imgur.com/msFIhgb.png [/img]
+[/list]
+
+All these items are made at a new workshop, Clothier.
+Also adds a small technology tree to unlock the clothier and boosts/upgrades to the workshop.
+
+[h3] How do I equip them? [/h3]
+Same way you equip clothes, go to citizens -> access and click the + to assign more or less.
+
+[h3] Compatibility [/h3]
+This mod only adds, it doesnt touch any vanilla file, therefore it should be compatible with all mods.
+Requires a new save, cant be removed from a save.
+
+[h3] Notes [/h3]
+These items give boosts to the citizen wearing it, they arent global, if you have 100 citizens and only 50 overalls, only 50 citizens will be able to wear them once you assign it and gain the overalls boost.
+If you see that the technology tree has a line connecting two nodes, its a vanilla thing that I cant modify, basically any requisites from other trees get a line connecting the nodes.
+You can equip all these items at the same time, I would had liked to only allow one at a time so you specialize your citizens, for example cretonians with overalls, however this is not possible to do unless I add java code.
+
+If you find any bug or error, let me know
+Got any ideas for a new item? Feel free to post a comment :)
+Any feedback is welcome, have fun and enjoy!
+Mod ID: 3126483222

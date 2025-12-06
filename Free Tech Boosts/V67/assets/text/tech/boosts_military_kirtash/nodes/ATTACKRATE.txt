@@ -1,0 +1,2 @@
+NAME: "Attack rate boost",
+DESC: "Boost to soldiers' attack rate.",

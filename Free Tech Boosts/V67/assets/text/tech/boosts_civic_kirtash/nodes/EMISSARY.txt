@@ -1,0 +1,2 @@
+NAME: "Emissary points boost",
+DESC: "Extra boost.",

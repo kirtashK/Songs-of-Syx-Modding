@@ -1,0 +1,2 @@
+NAME: "Herbs boost",
+DESC: "Extra boost.",

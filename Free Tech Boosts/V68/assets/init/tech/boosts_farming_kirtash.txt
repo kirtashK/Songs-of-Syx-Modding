@@ -1,0 +1,105 @@
+TREE: 
+{
+	0: [HERBS,GRAIN,COTTON,SPICES,],
+	1: [FRUIT,ORCHARD,VEGETABLES,MUSHROOM,],
+},
+TECHS: 
+{
+
+	COTTON: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_FARM_COTTON>ADD: 0.1,
+		},
+	},
+	FRUIT: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_FARM_FRUIT>ADD: 0.1,
+		},
+	},
+	GRAIN: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_FARM_GRAIN>ADD: 0.1,
+		},
+	},
+	HERBS: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_FARM_HERB>ADD: 0.1,
+		},
+	},
+	MUSHROOM: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_FARM_MUSHROOM>ADD: 0.1,
+		},
+	},
+	ORCHARD: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_ORCHARD_FRUIT>ADD: 0.1,
+		},
+	},
+	SPICES: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_FARM_SPICES>ADD: 0.1,
+		},
+	},
+	VEGETABLES: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_FARM_VEG>ADD: 0.1,
+		},
+	},
+},

@@ -1,0 +1,144 @@
+TREE: 
+{
+	0: [BARRACKS,ARCHERY,SKILLBOW,_____,],
+	1: [OFFENCESKILL,DEFENCESKILL,ATTACKRATE,MORALE,],
+	2: [PIERCE,SLASH,FORCE,HITPOINTS,],
+},
+TECHS: 
+{
+
+	ARCHERY: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_ARCHERY_VANILLA>ADD: 0.1,
+		},
+	},
+	ATTACKRATE: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			BATTLE_ATTACK_RATE>ADD: 0.1,
+		},
+	},
+	BARRACKS: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_BARRACKS_VANILLA>ADD: 0.1,
+		},
+	},
+	DEFENCESKILL: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			BATTLE_DEFENCE_SKILL>ADD: 0.1,
+		},
+	},
+	FORCE: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			BATTLE_BLUNT_ATTACK>ADD: 0.1,
+		},
+	},
+	HITPOINTS: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			BATTLE_BLUNT_DEFENCE>ADD: 0.1,
+		},
+	},
+	MORALE: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			BATTLE_MORALE>ADD: 0.1,
+		},
+	},
+	OFFENCESKILL: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			BATTLE_OFFENCE_SKILL>ADD: 0.1,
+		},
+	},
+	PIERCE: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			BATTLE_PIERCE_ATTACK>ADD: 0.1,
+			BATTLE_PIERCE_DEFENCE>ADD: 0.1,
+		},
+	},
+	SKILLBOW: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			BATTLE_RANGED_BOW>ADD: 0.1,
+		},
+	},
+	SLASH: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			BATTLE_SLASH_ATTACK>ADD: 0.1,
+			BATTLE_SLASH_DEFENCE>ADD: 0.1,
+		},
+	},
+},

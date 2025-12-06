@@ -1,0 +1,4 @@
+TREE: {
+	0: [HUMAN,TILAPI,GARTHIMI,],
+	1: [AMEVIA,CRETONIAN,_____,],
+},

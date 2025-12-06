@@ -1,0 +1,2 @@
+NAME: "Submission boost",
+DESC: "Slaves will revolt less.",

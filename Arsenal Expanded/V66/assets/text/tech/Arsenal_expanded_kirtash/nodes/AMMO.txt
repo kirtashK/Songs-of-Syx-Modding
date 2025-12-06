@@ -1,0 +1,3 @@
+NAME: "Improved Arrows",
+DESC: "Add stone and metal tip to arrows to make your archers better.",
+

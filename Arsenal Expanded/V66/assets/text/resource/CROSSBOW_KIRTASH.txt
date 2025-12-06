@@ -1,0 +1,3 @@
+NAME: "Crossbow",
+NAMES: "Crossbows",
+DESC: "Crossbows, heavy, slow firing and with little arch, but precise and dealing high pierce damage.",

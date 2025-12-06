@@ -1,0 +1,3 @@
+NAME: "Clothier Bonus",
+DESC: "Teach your clothiers how to make less mistakes to increase output speed.",
+

@@ -1,0 +1,16 @@
+LEVEL_COST: 350,
+REQUIRES_TECH_LEVEL: {
+	CLOTHIER: 1,	** Requieres Clothier tech researched
+},
+REQUIRES: {
+	GREATER:
+	{
+		POPULTAION_SLAVE_I: 150,	** Requieres 150 slaves
+	},	
+},
+UNLOCKS_FACTION: [
+	ROOM_WORKSHOP_CLOTHIER_KIRTASH_RECIPE_4,	** Unlock body strap recipe
+],
+UNLOCKS_REGION: [],
+BOOST: {},
+

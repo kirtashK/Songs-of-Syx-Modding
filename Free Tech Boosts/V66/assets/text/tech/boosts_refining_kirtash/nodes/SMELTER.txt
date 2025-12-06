@@ -1,0 +1,2 @@
+NAME: "Smelter boost",
+DESC: "Extra boost.",

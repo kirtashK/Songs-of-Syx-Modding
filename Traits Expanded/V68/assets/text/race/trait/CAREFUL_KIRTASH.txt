@@ -1,0 +1,8 @@
+NAME: "Careful",
+TITLE: "The Careful",
+DESC: "Someone who likes doing everything slowly to avoid accidents, they take better care of their home furniture.",
+
+BIO_DESC: [
+	"{NAME} is always careful.",
+    "Never takes unnecesary risks if {HE} can avoid them.",
+],

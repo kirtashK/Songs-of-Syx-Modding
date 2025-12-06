@@ -1,0 +1,39 @@
+NAME: "Boosts - Husbandry",
+TECHS: 
+{
+	AUROCH: 
+    {
+		NAME: "Auroch boost",
+        DESC: "Boost to auroch pastures.",
+	},
+	BALTI: 
+    {
+		NAME: "Balticrawler boost",
+        DESC: "Boost to balticrawler pastures.",
+	},
+	ENTELOPE: 
+    {
+		NAME: "Entelope boost",
+        DESC: "Boost to entelope pastures.",
+	},
+	FISHERY: 
+    {
+		NAME: "Fishery boost",
+        DESC: "Boost to fishing.",
+	},
+	GLOBDIEN: 
+    {
+		NAME: "Globdien boost",
+        DESC: "Boost to globdien pastures.",
+	},
+	HUNTER: 
+    {
+		NAME: "Hunter boost",
+        DESC: "Boost to hunting.",
+	},
+	ONX: 
+    {
+		NAME: "Onx boost",
+        DESC: "Boost to onx pastures.",
+	},
+},

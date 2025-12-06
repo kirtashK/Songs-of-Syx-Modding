@@ -1,0 +1,2 @@
+NAME: "Defence skill boost",
+DESC: "Extra boost.",

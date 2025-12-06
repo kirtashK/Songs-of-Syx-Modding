@@ -1,0 +1,3 @@
+NAME: "Hunter Bonus",
+DESC: "Teach your hunters how to make less noise while hunting to increase output speed and efficiency.",
+

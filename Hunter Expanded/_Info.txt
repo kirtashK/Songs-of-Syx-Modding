@@ -1,0 +1,7 @@
+VERSION: "1.4",
+GAME_VERSION_MAJOR: 69,
+GAME_VERSION_MINOR: 65,
+NAME: "Hunter Expanded",
+DESC: "Adds recipes and boosts/upgrades to hunter room.",
+AUTHOR: "Kirtash",
+INFO: "Adds recipes and boosts/upgrades to hunter room.", 

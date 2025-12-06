@@ -1,0 +1,2 @@
+NAME: "Entelope boost",
+DESC: "Extra boost.",

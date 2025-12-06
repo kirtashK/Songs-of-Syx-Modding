@@ -1,0 +1,16 @@
+LEVEL_COST: 200,
+REQUIRES_TECH_LEVEL: {
+	CRAFTING_TAIL0: 1,	** Requieres first tailor tech researched
+},
+REQUIRES: {
+	GREATER:
+	{
+		POPULTAION_CITIZEN_I: 200,	** Requieres 200 citizens
+	},	
+},
+UNLOCKS_FACTION: [
+	ROOM_WORKSHOP_CLOTHIER_KIRTASH,	** Unlock the room to craft the items added by  the mod
+],
+UNLOCKS_REGION: [],
+BOOST: {},
+

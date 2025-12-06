@@ -1,0 +1,2 @@
+NAME: "Stone boost",
+DESC: "Extra boost.",

@@ -1,0 +1,7 @@
+VERSION: "1.5",
+GAME_VERSION_MAJOR: 69,
+GAME_VERSION_MINOR: 65,
+NAME: "Less Spoilage",
+DESC: "Reduces spoilage for some items, wear rate for clothes and jewelry, and improves citizens fullfilment from jewelry.",
+AUTHOR: "Kirtash",
+INFO: "Reduces spoilage for some items, wear rate for clothes and jewelry, and improves citizens fullfilment from jewelry.", 

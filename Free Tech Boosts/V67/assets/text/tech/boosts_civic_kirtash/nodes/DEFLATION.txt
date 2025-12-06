@@ -1,0 +1,2 @@
+NAME: "Deflation boost",
+DESC: "Decreases deflation, meaning you lose less by it.",

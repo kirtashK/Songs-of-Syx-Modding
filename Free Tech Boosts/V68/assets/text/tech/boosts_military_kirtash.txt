@@ -1,0 +1,60 @@
+NAME: "Boosts - Military",
+TECHS: 
+{
+	ARCHERY: 
+    {
+		NAME: "Archery training speed boost",
+		DESC: "Boost to training archery skill speed.",
+	},
+	ATTACKRATE: 
+    {
+		NAME: "Attack rate boost",
+		DESC: "Boost to soldiers' attack rate.",
+
+	},
+	BARRACKS: 
+    {
+		NAME: "Melee training speed boost",
+		DESC: "Boost to training melee skill speed.",
+	},
+	DEFENCESKILL: 
+    {
+		NAME: "Defence skill boost",
+		DESC: "Boost to defence.",
+	},
+	FORCE: 
+    {
+		NAME: "Force boost",
+		DESC: "Boost to force.",
+	},
+	HITPOINTS: 
+    {
+		NAME: "Hitpoints boost",
+		DESC: "Boost to hitpoints.",
+	},
+	MORALE: 
+    {
+		NAME: "Morale boost",
+		DESC: "Boost to morale.",
+	},
+    OFFENCESKILL: 
+    {
+		NAME: "Offence skill boost",
+		DESC: "Boost the chance of landing a hit.",
+	},
+	PIERCE: 
+    {
+		NAME: "Pierce damage and defence boost",
+		DESC: "Boost to piercing.",
+	},
+	SKILLBOW: 
+    {
+		NAME: "Bow skill boost",
+		DESC: "Boost to archery.",
+	},
+	SLASH: 
+    {
+		NAME: "Slash damage and defence boost",
+		DESC: "Boost to slashing.",
+	},
+},

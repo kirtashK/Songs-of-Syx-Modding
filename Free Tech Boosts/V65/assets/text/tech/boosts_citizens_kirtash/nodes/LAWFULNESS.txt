@@ -1,0 +1,2 @@
+NAME: "Lawfulness boost",
+DESC: "Boost to citizens obeying the law.",

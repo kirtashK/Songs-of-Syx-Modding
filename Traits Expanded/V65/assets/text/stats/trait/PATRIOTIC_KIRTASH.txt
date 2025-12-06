@@ -1,0 +1,2 @@
+NAME: "Patriotic",
+DESC: "Someone who loves your kingdom, will behave better than the rest and trains faster.",

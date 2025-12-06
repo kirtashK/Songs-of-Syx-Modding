@@ -1,0 +1,5 @@
+NAME: "Archery",
+DESC: "
+	Elevate your archery instructor' abilities to turn out good troops in short order.
+",
+

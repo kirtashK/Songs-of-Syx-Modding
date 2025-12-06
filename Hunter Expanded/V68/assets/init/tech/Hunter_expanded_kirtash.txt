@@ -1,0 +1,43 @@
+TREE: 
+{
+	0: [HUNTER_BOOST,],
+	1: [HUNTER_UPGRADE_1,],
+},
+
+TECHS: 
+{
+	HUNTER_BOOST: 
+    {
+        LEVEL_MAX: 6,
+		LEVEL_COST_INC: 4,
+		COSTS: 
+        {
+			CIVIC_INNOVATION: 4,
+		},
+		BOOST: 
+        {
+            ROOM_HUNTER_NORMAL>ADD: 0.1,
+        },
+	},
+
+	HUNTER_UPGRADE_1: 
+    {
+		COSTS: 
+        {
+			CIVIC_INNOVATION: 20,
+		},
+		REQUIRES_TECH_LEVEL: 
+        {
+			HUNTER_BOOST: 2,
+		},
+		UNLOCKS_FACTION: 
+        [
+            ROOM_HUNTER_NORMAL_UPGRADE_1,
+        ],
+		BOOST: 
+        {
+            ROOM_HUNTER_NORMAL>ADD: 0.1,
+        },
+	},
+},
+

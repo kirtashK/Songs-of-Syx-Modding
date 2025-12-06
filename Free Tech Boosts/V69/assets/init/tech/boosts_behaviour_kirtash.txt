@@ -1,0 +1,77 @@
+TREE: 
+{
+	0: [HAPPINESS,LAWFULNESS,LOYALTY,],
+	1: [SUBMISSION,SANITY,_____,],
+},
+CATEGORY: 99,
+COLOR: 0_148_255,
+
+TECHS: 
+{
+
+	HAPPINESS: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BEHAVIOUR_HAPPINESS>ADD: 0.1,
+		},
+	},
+	LAWFULNESS: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BEHAVIOUR_LAWFULNESS>ADD: 0.1,
+		},
+	},
+	LOYALTY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BEHAVIOUR_LOYALTY>ADD: 0.1,
+		},
+	},
+	SANITY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BEHAVIOUR_SANITY>ADD: 0.1,
+		},
+	},
+	SUBMISSION: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BEHAVIOUR_SUBMISSION>ADD: 0.1,
+		},
+	},
+},

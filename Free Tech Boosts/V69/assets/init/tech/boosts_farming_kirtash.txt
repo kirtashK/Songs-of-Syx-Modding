@@ -1,0 +1,116 @@
+TREE: 
+{
+	0: [HERBS,GRAIN,COTTON,SPICES,],
+	1: [FRUIT,ORCHARD,VEGETABLES,MUSHROOM,],
+},
+CATEGORY: 99,
+COLOR: 0_148_255,
+
+TECHS: 
+{
+
+	COTTON: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_FARM_COTTON>ADD: 0.1,
+		},
+	},
+	FRUIT: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_FARM_FRUIT>ADD: 0.1,
+		},
+	},
+	GRAIN: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_FARM_GRAIN>ADD: 0.1,
+		},
+	},
+	HERBS: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_FARM_HERB>ADD: 0.1,
+		},
+	},
+	MUSHROOM: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_FARM_MUSHROOM>ADD: 0.1,
+		},
+	},
+	ORCHARD: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_ORCHARD_FRUIT>ADD: 0.1,
+		},
+	},
+	SPICES: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_FARM_SPICES>ADD: 0.1,
+		},
+	},
+	VEGETABLES: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_FARM_VEG>ADD: 0.1,
+		},
+	},
+},

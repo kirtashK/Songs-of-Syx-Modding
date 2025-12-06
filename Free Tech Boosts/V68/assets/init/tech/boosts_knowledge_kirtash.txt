@@ -1,0 +1,57 @@
+TREE: 
+{
+	0: [LABORATORY,LIBRARY,],
+	1: [UNIVERSITY,ADMIN,],
+},
+TECHS: 
+{
+
+	ADMIN: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_ADMIN_NORMAL>ADD: 0.1,
+		},
+	},
+	LABORATORY: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_LABORATORY_NORMAL>ADD: 0.1,
+		},
+	},
+	LIBRARY: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_LIBRARY_NORMAL>ADD: 0.1,
+		},
+	},
+	UNIVERSITY: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_UNIVERSITY_NORMAL>ADD: 0.1,
+		},
+	},
+},

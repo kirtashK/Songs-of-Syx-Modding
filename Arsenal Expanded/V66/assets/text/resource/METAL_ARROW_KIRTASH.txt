@@ -1,0 +1,3 @@
+NAME: "Metal arrow",
+NAMES: "Metal arrows",
+DESC: "These arrows have a metal tip, which increases ranged skill more than a stone arrow.",

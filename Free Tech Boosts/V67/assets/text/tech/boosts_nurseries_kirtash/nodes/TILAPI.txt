@@ -1,0 +1,2 @@
+NAME: "Tilapi boost",
+DESC: "Extra boost.",

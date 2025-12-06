@@ -1,0 +1,30 @@
+NAME: "Boosts - Refining",
+TECHS: 
+{
+	BAKERY: 
+    {
+		NAME: "Bakery boost",
+		DESC: "Boost to bakeries.",
+	},
+	BREWERY: 
+    {
+		NAME: "Brewery boost",
+		DESC: "Boost to breweries.",
+
+	},
+	CHARCOAL: 
+    {
+		NAME: "Charcoal boost",
+		DESC: "Boost to charcoal refineries.",
+	},
+	SMELTER: 
+    {
+		NAME: "Smelter boost",
+		DESC: "Boost to smelteries.",
+	},
+	WEAVER: 
+    {
+		NAME: "Weaver boost",
+		DESC: "Boost to weavers.",
+	},
+},

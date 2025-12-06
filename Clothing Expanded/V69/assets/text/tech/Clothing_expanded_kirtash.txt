@@ -1,0 +1,30 @@
+NAME: "Clothing Expanded",
+TECHS: 
+{
+	CLOTHIER: 
+    {
+		NAME: "Clothier",
+        DESC: "Unlock the clothier, a room where your citizens can craft new equipment to improve their efficiency or their self-esteem.",
+	},
+	CLOTHIER_BOOST: 
+    {
+		NAME: "Clothier Bonus",
+        DESC: "Your clothiers make less mistakes, increasing output speed.",
+	},
+	CLOTHIER_SLAVE: 
+    {
+		NAME: "Body straps",
+        DESC: "Your slaver proposes a solution to these ungrateful slaves, what if we force them to wear straps and chains? That will surely make them more submissive.",
+	},
+	CLOTHIER_UPGRADE_1: 
+    {
+		NAME: "Clothier (Refined)",
+        DESC: "Upgrade your clothiers with proper tools for the job.",
+	},
+	CLOTHIER_UPGRADE_2: 
+    {
+        NAME: "Clothier (Advanced)",
+        DESC: "Upgrade your clothiers with advanced tools for the job.",
+	},
+},
+

@@ -1,0 +1,7 @@
+VERSION: "1.6",
+GAME_VERSION_MAJOR: 69,
+GAME_VERSION_MINOR: 65,
+NAME: "Arsenal Expanded",
+DESC: "Adds new weapons and shields.",
+AUTHOR: "Kirtash",
+INFO: "Adds new weapons and shields.", 

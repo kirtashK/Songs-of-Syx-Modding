@@ -1,0 +1,2 @@
+NAME: "Morale boost",
+DESC: "Extra boost.",

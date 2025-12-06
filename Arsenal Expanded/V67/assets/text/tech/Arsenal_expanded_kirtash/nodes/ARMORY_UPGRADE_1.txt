@@ -1,0 +1,3 @@
+NAME: "Armory (Refined)",
+DESC: "Upgrade your armories with proper tools for the job.",
+

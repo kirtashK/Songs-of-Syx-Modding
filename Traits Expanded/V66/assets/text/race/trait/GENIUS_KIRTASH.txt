@@ -1,0 +1,3 @@
+NAME: "Genius",
+TITLE: "The Genius",
+DESC: "Someone who is very smart.",

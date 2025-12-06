@@ -1,0 +1,2 @@
+NAME: "Balticrawler boost",
+DESC: "Extra boost.",

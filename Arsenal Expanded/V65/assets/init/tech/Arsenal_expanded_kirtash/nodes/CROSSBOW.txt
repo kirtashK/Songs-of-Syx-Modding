@@ -1,0 +1,18 @@
+LEVEL_COST: 500,
+REQUIRES_TECH_LEVEL: {
+	ARMORY: 1,
+},
+REQUIRES: {
+	GREATER:
+	{
+		ROOM_ARCHERY_VANILLA_AREA: 1,	** Requires an archery range with area > 1.
+	},	
+},
+UNLOCKS_FACTION: [
+	ROOM_WORKSHOP_ARMORY_KIRTASH_RECIPE_1,		** unlock crossbow recipe
+],
+UNLOCKS_REGION: [],
+BOOST: {
+	ROOM_WORKSHOP_ARMORY_KIRTASH>ADD: 0.1,
+},
+

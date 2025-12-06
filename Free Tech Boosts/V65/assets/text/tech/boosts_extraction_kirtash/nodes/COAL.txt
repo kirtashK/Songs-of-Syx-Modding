@@ -1,0 +1,2 @@
+NAME: "Coal boost",
+DESC: "Extra boost.",

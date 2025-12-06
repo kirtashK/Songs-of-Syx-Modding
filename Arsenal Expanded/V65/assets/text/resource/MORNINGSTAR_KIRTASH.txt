@@ -1,0 +1,3 @@
+NAME: "Morning star",
+NAMES: "Morning stars",
+DESC: "One handed version of the warhammer, deals a bit less blunt damage but its spikes deal more pierce damage.",

@@ -1,0 +1,3 @@
+NAME: "Heavy shield",
+DESC: "Improve the design of your shields by making a metal version, bigger and stronger.",
+

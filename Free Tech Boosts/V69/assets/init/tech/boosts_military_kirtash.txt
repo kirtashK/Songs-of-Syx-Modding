@@ -1,0 +1,158 @@
+TREE: 
+{
+	0: [BARRACKS,ARCHERY,SKILLBOW,_____,],
+	1: [OFFENCESKILL,DEFENCESKILL,ATTACKRATE,MORALE,],
+	2: [PIERCE,SLASH,FORCE,HITPOINTS,],
+},
+CATEGORY: 99,
+COLOR: 0_148_255,
+
+TECHS: 
+{
+
+	ARCHERY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_ARCHERY_VANILLA>ADD: 0.1,
+		},
+	},
+	ATTACKRATE: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BATTLE_ATTACK_RATE>ADD: 0.1,
+		},
+	},
+	BARRACKS: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_BARRACKS_VANILLA>ADD: 0.1,
+		},
+	},
+	DEFENCESKILL: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BATTLE_DEFENCE_SKILL>ADD: 0.1,
+		},
+	},
+	FORCE: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BATTLE_BLUNT_ATTACK>ADD: 0.1,
+		},
+	},
+	HITPOINTS: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BATTLE_BLUNT_DEFENCE>ADD: 0.1,
+		},
+	},
+	MORALE: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BATTLE_MORALE>ADD: 0.1,
+		},
+	},
+	OFFENCESKILL: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BATTLE_OFFENCE_SKILL>ADD: 0.1,
+		},
+	},
+	PIERCE: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BATTLE_PIERCE_ATTACK>ADD: 0.1,
+			BATTLE_PIERCE_DEFENCE>ADD: 0.1,
+		},
+	},
+	SKILLBOW: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BATTLE_RANGED_BOW>ADD: 0.1,
+		},
+	},
+	SLASH: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BATTLE_SLASH_ATTACK>ADD: 0.1,
+			BATTLE_SLASH_DEFENCE>ADD: 0.1,
+		},
+	},
+},

@@ -1,0 +1,2 @@
+NAME: "Armory (Advanced)",
+DESC: "Upgrade your armories with advanced tools for the job.",

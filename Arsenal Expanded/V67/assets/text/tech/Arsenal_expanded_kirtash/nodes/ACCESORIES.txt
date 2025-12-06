@@ -1,0 +1,3 @@
+NAME: "Accesories",
+DESC: "Learn to produce banners and whetstones to boost morale or sharpen your troops' blades.",
+

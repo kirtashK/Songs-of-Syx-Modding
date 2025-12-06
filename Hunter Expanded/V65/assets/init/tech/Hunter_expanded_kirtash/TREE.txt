@@ -1,0 +1,4 @@
+TREE: {
+	0: [HUNTER_BOOST,_____,],
+	1: [HUNTER_RECIPES,HUNTER_UPGRADE_1,],
+},

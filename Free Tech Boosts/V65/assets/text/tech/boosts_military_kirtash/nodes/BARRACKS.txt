@@ -1,0 +1,2 @@
+NAME: "Melee training speed boost",
+DESC: "Boost to training melee skill speed.",

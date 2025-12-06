@@ -1,0 +1,3 @@
+NAME: "Heavy shield",
+NAMES: "Heavy shields",
+DESC: "Big metal shields, increasing defence considerably, but they reduce offence skill, attack speed and movement speed.",

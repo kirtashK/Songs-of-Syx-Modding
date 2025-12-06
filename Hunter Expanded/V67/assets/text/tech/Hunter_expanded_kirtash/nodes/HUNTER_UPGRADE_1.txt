@@ -1,0 +1,2 @@
+NAME: "Hunter (Refined)",
+DESC: "Supply your hunters with bows, boosting production speed now that they can actually hunt... %r%%r% My lord, where we sending our hunters armed with clubs before?",

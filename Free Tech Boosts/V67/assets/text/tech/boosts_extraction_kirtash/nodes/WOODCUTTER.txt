@@ -1,0 +1,2 @@
+NAME: "Woodcutter boost",
+DESC: "Extra boost.",

@@ -1,0 +1,32 @@
+[h3] Supported versions [/h3]
+V65 - V69
+
+[h3] Description [/h3]
+In vanilla, melee training speed can be improved by technologies and upgrades, while ranged training speed cant.
+This mod creates a technology node that boosts ranged training speed, similar to melee training speed technology node.
+It boosts archery training speed by 10% per level.
+This technology node requires archery range technology node to be unlocked first.
+Archery range tech node no longer requieres melee training level 1, in V66 this is vanilla.
+The new tech can be found along the vanilla melee training speed and archery range techs.
+
+In V67+, Jake added this mod's functionality into the base game.
+However the archery range has no upgrades while barracks do, in V67+, this mod gives archery range upgrades similar to barracks.
+
+
+[img]https://i.imgur.com/HjMKesn.jpg[/img]
+
+[h3] Compatibility [/h3]
+This mod touches the following vanilla files:
+[list]
+[*]V65 & V66: init/tech/battle.
+[*]V67+: init/room/archery_vanilla.
+[/list]
+if you are using a mod that touches the same files, depending on the load order, one mod may overwrite the conflicting files of the other mod.
+
+Should be safe to add/remove to a save, do a backup first just in case! Your allocated knowledge points may reset after adding the mod.
+
+[h3] Notes [/h3]
+V67+: Archery range's sprites dont "upgrade" when upgrading the room, but the extra speed is still obtained.
+If you find any bug or error, let me know
+Any feedback is welcome, enjoy and have fun ^-^
+Mod ID: 3119920344

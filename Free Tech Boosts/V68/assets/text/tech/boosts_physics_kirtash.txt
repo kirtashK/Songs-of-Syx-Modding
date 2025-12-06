@@ -1,0 +1,40 @@
+NAME: "Boosts - Physics",
+TECHS: 
+{
+	ACCELERATION: 
+    {
+		NAME: "Acceleration boost",
+		DESC: "Boost to acceleration.",
+	},
+	HEALTH: 
+    {
+		NAME: "Health boost",
+		DESC: "Boost to health.",
+
+	},
+	LIFESPAN: 
+    {
+		NAME: "Lifespan boost",
+		DESC: "Boost to lifespan.",
+	},
+	SOILING: 
+    {
+		NAME: "Soiling boost",
+		DESC: "Reduce how often citizens become dirty.",
+	},
+	SPEED: 
+    {
+		NAME: "Speed boost",
+		DESC: "Boost to speed.",
+	},
+	STAMINA: 
+    {
+		NAME: "Stamina boost",
+		DESC: "Boost to stamina.",
+	},
+	TEMPRESIS: 
+    {
+		NAME: "Temperature resistance boost",
+		DESC: "Extra boost, both for cold and heat resistances.",
+	},
+},

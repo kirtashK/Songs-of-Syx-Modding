@@ -1,0 +1,2 @@
+NAME: "Animal lover",
+DESC: "Someone who loves taking care of animals.",

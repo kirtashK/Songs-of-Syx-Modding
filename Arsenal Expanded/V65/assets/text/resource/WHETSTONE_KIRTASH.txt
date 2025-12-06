@@ -1,0 +1,3 @@
+NAME: "Whetstone",
+NAMES: "Whetstone",
+DESC: "Also known as sharpening stone, this will improve your soldier's blades, boosting slash and pierce damage. However, your soldiers tend to use these all the time, wearing them out quickly.",

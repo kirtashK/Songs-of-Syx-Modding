@@ -1,0 +1,2 @@
+NAME: "Opiates boost",
+DESC: "Extra boost.",

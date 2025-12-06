@@ -1,0 +1,5 @@
+NAME: "Artillery",
+DESC: "
+	Invaders will think twice before attacking your mighty walls studded with artillery batteries.
+",
+

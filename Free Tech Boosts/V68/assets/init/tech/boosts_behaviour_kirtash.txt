@@ -1,0 +1,69 @@
+TREE: 
+{
+	0: [HAPPINESS,LAWFULNESS,LOYALTY,],
+	1: [SUBMISSION,SANITY,_____,],
+},
+TECHS: 
+{
+
+	HAPPINESS: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			BEHAVIOUR_HAPPINESS>ADD: 0.1,
+		},
+	},
+	LAWFULNESS: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			BEHAVIOUR_LAWFULNESS>ADD: 0.1,
+		},
+	},
+	LOYALTY: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			BEHAVIOUR_LOYALTY>ADD: 0.1,
+		},
+	},
+	SANITY: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			BEHAVIOUR_SANITY>ADD: 0.1,
+		},
+	},
+	SUBMISSION: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			BEHAVIOUR_SUBMISSION>ADD: 0.1,
+		},
+	},
+},

@@ -1,0 +1,2 @@
+NAME: "Spoilage boost",
+DESC: "Less spoilage.",

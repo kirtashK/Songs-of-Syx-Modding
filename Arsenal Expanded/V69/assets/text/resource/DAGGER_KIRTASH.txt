@@ -1,0 +1,3 @@
+NAME: "Dagger",
+NAMES: "Daggers",
+DESC: "Daggers have good pierce damage, are very short and light, allowing the soldier to move faster and attack fast, but the short length reduces the ability to parry.",

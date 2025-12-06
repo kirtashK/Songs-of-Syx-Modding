@@ -1,0 +1,3 @@
+NAME: "Armory boost",
+DESC: "Improve production speed by using better tools.",
+

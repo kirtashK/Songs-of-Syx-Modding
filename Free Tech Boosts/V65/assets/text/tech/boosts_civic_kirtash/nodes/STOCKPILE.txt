@@ -1,0 +1,2 @@
+NAME: "Hauler boost",
+DESC: "Hauler can hold more items.",

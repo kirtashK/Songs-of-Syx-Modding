@@ -1,0 +1,2 @@
+NAME: "Laboratory boost",
+DESC: "Extra boost.",

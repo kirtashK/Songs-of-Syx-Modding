@@ -1,0 +1,9 @@
+NAME: "Calm",
+TITLE: "The Calm",
+DESC: "Someone who is a great administrator and has less chances to become insane.",
+
+BIO_DESC: [
+	"Likes to think before acting.",
+    "Always takes {HIS} time to do any task.",
+    "Never had any haste in life.",
+],

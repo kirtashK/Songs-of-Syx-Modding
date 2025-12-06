@@ -1,0 +1,2 @@
+NAME: "Sithilon boost",
+DESC: "Extra boost.",

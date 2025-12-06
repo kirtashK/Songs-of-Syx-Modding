@@ -1,0 +1,13 @@
+NAME: "Hunter %r% Expanded",
+TECHS: {
+	HUNTER_BOOST: 
+    {
+		NAME: "Hunter Bonus",
+        DESC: "Teach your hunters how to make less noise while hunting to increase output speed and efficiency.",
+	},
+	HUNTER_UPGRADE_1: 
+    {
+		NAME: "Hunter (Refined)",
+        DESC: "Supply your hunters with bows, boosting production speed now that they can actually hunt. %r%%r% My lord, where we sending our hunters armed with clubs?",
+	},
+},

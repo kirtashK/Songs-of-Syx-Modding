@@ -1,0 +1,2 @@
+NAME: "University boost",
+DESC: "Extra boost.",

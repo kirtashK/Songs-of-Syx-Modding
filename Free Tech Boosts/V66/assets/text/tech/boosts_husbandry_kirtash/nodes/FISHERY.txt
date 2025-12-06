@@ -1,0 +1,2 @@
+NAME: "Fishery boost",
+DESC: "Extra boost.",

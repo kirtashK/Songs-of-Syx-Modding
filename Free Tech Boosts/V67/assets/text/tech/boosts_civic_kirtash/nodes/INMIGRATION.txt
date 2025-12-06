@@ -1,0 +1,2 @@
+NAME: "Inmigration boost",
+DESC: "Increases the rate at which inmigrations come.",

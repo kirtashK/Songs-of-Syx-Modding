@@ -1,0 +1,2 @@
+NAME: "Pierce damage and defence boost",
+DESC: "Extra boost.",

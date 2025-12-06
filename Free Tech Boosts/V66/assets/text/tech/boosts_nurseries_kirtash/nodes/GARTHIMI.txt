@@ -1,0 +1,2 @@
+NAME: "Garthimi boost",
+DESC: "Extra boost.",

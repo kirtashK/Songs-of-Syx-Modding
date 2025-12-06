@@ -1,0 +1,3 @@
+NAME: "Wooden spear",
+NAMES: "Wooden spears",
+DESC: "Wooden spears are wooden branches sharpened at the tip, they deal low piercing damage.",

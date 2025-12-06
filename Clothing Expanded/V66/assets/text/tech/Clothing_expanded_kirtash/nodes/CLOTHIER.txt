@@ -1,0 +1,4 @@
+NAME: "Clothier",
+DESC: "Unlock the clothier, a room where your citizens can craft new equipment to improve their efficiency or their self-esteem.",
+
+

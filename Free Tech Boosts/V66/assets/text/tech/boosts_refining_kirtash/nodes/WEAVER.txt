@@ -1,0 +1,2 @@
+NAME: "Weaver boost",
+DESC: "Extra boost.",

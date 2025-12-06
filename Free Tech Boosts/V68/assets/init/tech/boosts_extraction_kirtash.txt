@@ -1,0 +1,93 @@
+TREE: 
+{
+	0: [ORE,COAL,CLAY,STONE,],
+	1: [JEWELRY,SITHILON,WOODCUTTER,_____,],
+},
+TECHS: 
+{
+
+	CLAY: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_MINE_CLAY>ADD: 0.1,
+		},
+	},
+	COAL: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_MINE_COAL>ADD: 0.1,
+		},
+	},
+	JEWELRY: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_MINE_GEM>ADD: 0.1,
+		},
+	},
+	ORE: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_MINE_ORE>ADD: 0.1,
+		},
+	},
+	SITHILON: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_MINE_SITHILON>ADD: 0.1,
+		},
+	},
+	STONE: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_MINE_STONE>ADD: 0.1,
+		},
+	},
+	WOODCUTTER: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_WOODCUTTER>ADD: 0.1,
+		},
+	},
+},

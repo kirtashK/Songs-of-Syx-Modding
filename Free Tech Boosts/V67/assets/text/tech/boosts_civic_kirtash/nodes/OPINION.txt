@@ -1,0 +1,2 @@
+NAME: "Opinion boost",
+DESC: "Extra boost.",

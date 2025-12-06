@@ -1,0 +1,24 @@
+NAME: "Boosts - Knowledge",
+TECHS: 
+{
+	ADMIN: 
+    {
+		NAME: "Administration boost",
+        DESC: "Boost to administration.",
+	},
+	LABORATORY: 
+    {
+		NAME: "Laboratory boost",
+        DESC: "Boost to laboratories.",
+	},
+	LIBRARY: 
+    {
+		NAME: "Library boost",
+        DESC: "Boost to libraries.",
+	},
+	UNIVERSITY: 
+    {
+		NAME: "University boost",
+        DESC: "Boost to universities.",
+	},
+},

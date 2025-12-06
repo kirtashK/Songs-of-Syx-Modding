@@ -1,0 +1,3 @@
+NAME: "Animal hater",
+TITLE: "The Cruel",
+DESC: "Someone who loves killing animals.",

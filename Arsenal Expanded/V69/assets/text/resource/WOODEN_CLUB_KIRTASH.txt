@@ -1,0 +1,3 @@
+NAME: "Wooden club",
+NAMES: "Wooden clubs",
+DESC: "Wooden clubs are cheap to craft but deal low blunt damage.",

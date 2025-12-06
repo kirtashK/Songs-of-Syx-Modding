@@ -1,0 +1,44 @@
+NAME: "Boosts - Farming",
+TECHS: 
+{
+	COTTON: 
+    {
+		NAME: "Cotton boost",
+        DESC: "Boost to cotton farms.",
+	},
+	FRUIT: 
+    {
+		NAME: "Fruit farm boost",
+        DESC: "Boost to fruit farms.",
+	},
+	GRAIN: 
+    {
+		NAME: "Grain boost",
+        DESC: "Boost to grain farms.",
+	},
+	HERBS: 
+    {
+		NAME: "Herbs boost",
+        DESC: "Boost to herbs farms.",
+	},
+	MUSHROOM: 
+    {
+		NAME: "Mushroom boost",
+        DESC: "Boost to mushroom farms.",
+	},
+	ORCHARD: 
+    {
+		NAME: "Fruit orchard boost",
+        DESC: "Boost to orchards.",
+	},
+	SPICES: 
+    {
+		NAME: "Opiates boost",
+        DESC: "Boost to spices farms.",
+	},
+    VEGETABLES: 
+    {
+		NAME: "Vegetables boost",
+        DESC: "Boost to vegetables farms.",
+	},
+},

@@ -1,0 +1,2 @@
+NAME: "Complex Recipes",
+DESC: "Unlock recipes which make your hunters focus on different preys at the same time, allowing obtaining two different products at the same time.",

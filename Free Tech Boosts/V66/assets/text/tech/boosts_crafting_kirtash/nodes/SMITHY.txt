@@ -1,0 +1,2 @@
+NAME: "Smithy boost",
+DESC: "Extra boost.",

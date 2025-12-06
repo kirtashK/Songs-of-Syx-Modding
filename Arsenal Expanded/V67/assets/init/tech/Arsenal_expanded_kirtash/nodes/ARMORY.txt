@@ -1,0 +1,18 @@
+LEVEL_COST: 400,
+REQUIRES_TECH_LEVEL: {
+	CRAFTING_META0: 1,	** Requieres smithy tech researched
+},
+REQUIRES: {
+	GREATER:
+	{
+		POPULTAION_CITIZEN_I: 350,	** Requires 350 citizens
+	},	
+},
+UNLOCKS_FACTION: 
+[
+	ROOM_WORKSHOP_ARMORY_KIRTASH,	** Unlock the room to craft the items added by the mod
+	ROOM_ARCHERY_CROSSBOW_RANGE_KIRTASH,	** Unlock crossbow range
+],
+UNLOCKS_REGION: [],
+BOOST: {},
+

@@ -1,0 +1,5 @@
+NAME: "Deterrents",
+DESC: "
+	With some heads and other body-parts on spikes on our borders, we are able to deter raiders.
+",
+

@@ -1,0 +1,5 @@
+NAME: "Defence Techniques",
+DESC: "
+	Increases defence skill of our troops.
+",
+

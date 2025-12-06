@@ -1,0 +1,2 @@
+NAME: "Archery training speed boost",
+DESC: "Boost to training archery skill speed.",

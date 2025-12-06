@@ -1,0 +1,5 @@
+TREE: {
+	0: [_____,CLOTHIER,_____,],
+	1: [CLOTHIER_BOOST,CLOTHIER_UPGRADE_1,CLOTHIER_SLAVE,],
+	2: [_____,CLOTHIER_UPGRADE_2,_____,],
+},

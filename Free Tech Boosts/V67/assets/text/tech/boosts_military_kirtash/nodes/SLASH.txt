@@ -1,0 +1,2 @@
+NAME: "Slash damage and defence boost",
+DESC: "Extra boost.",

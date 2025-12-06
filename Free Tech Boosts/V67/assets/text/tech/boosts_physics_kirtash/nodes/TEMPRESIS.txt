@@ -1,0 +1,2 @@
+NAME: "Temperature resistance boost",
+DESC: "Extra boost, both for cold and heat resistances.",

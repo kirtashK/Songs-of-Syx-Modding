@@ -1,0 +1,2 @@
+NAME: "Stamina boost",
+DESC: "Extra boost.",

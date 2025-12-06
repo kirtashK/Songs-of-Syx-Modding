@@ -1,0 +1,2 @@
+NAME: "Animal hater",
+DESC: "Someone who loves killing animals.",

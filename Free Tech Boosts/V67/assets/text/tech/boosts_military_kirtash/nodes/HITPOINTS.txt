@@ -1,0 +1,2 @@
+NAME: "Hitpoints boost",
+DESC: "Extra boost.",

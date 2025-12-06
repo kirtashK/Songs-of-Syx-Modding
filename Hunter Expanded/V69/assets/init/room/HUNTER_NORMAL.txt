@@ -1,0 +1,172 @@
+ICON: 32->WORK->4,
+RESOURCES: [FURNITURE,BOW,],
+AREA_COSTS: [0.2,0,],
+FLOOR: WOOD_SQUARE,
+MINI_COLOR: 74_119_14,
+ITEMS: 
+[
+	{
+		COSTS: [1,2,],
+		STATS: [1,0,0,],	** Work table
+	},
+	{
+		COSTS: [1,0.25,],
+		STATS: [0,0.4,0,],	** Efficiency
+	},
+],
+** Upgrades added by this mod:
+UPGRADES: 
+[
+	{
+		RESOURCE_MASK: [1,0,],
+		BOOST: 0,
+	},
+	{
+		RESOURCE_MASK: [1,1,],
+		BOOST: 0.5,
+	},
+],
+
+MAX_EMPLOYED: 20,
+INDUSTRIES: 
+[
+	{
+		INDUSTRY: 
+		{
+			IN: {},
+			OUT: 
+			{
+				MEAT: 2.2,	** Vanilla recipe
+			},
+		},
+	},
+	{
+		INDUSTRY: 
+		{
+			IN: {},
+			OUT: 
+			{
+				LEATHER: 1.4,	** Vanilla recipe
+			},
+		},
+	},
+		** Recipes added by this mod:
+	{
+		INDUSTRY: 
+		{
+			IN: {},
+			OUT: 
+			{
+				EGG: 2.0,	** Dinoris and globdien
+			},
+		},
+	},
+	{
+		INDUSTRY: 
+		{
+			IN: {},
+			OUT: 
+			{
+				COTTON: 1.8,	** Onx
+			},
+		},
+	},
+],
+
+WORK: 
+{
+	SHIFT_OFFSET: 0.125,
+	SOUND: gore->Squish*,
+	USES_TOOL: true,
+	FULFILLMENT: 1.0,
+},
+BONUS: 
+{
+	CLIMATE: 
+	{
+		COLD: 1.2,
+	},
+},
+SPRITES: 
+{
+	TABLE_COMBO: 
+	[
+		** Non upgraded:
+		{
+			SHADOW_LENGTH: 0,
+			SHADOW_HEIGHT: 5,
+			FRAMES: 
+			[
+				COMBO_TABLES: 1,
+				COMBO_TABLES: 8,
+			],
+		},
+		** Upgrade 1:
+		{
+			SHADOW_LENGTH: 0,
+			SHADOW_HEIGHT: 5,
+			FRAMES: 
+			[
+				COMBO_TABLES: 1,
+				COMBO_TABLES: 0,
+			],
+		},
+	],
+	STORAGE_1X1: 
+	[
+		** Non upgraded:
+		{
+			SHADOW_LENGTH: 3,
+			SHADOW_HEIGHT: 0,
+			FRAMES: 
+			[
+				STORAGE: 1,
+				STORAGE: 5,
+			],
+		},
+		** Upgrade 1:
+		{
+			SHADOW_LENGTH: 3,
+			SHADOW_HEIGHT: 0,
+			FRAMES: 
+			[
+				STORAGE: 1,
+				STORAGE: 5,
+				STORAGE: 0,
+				STORAGE: 2,
+			],
+		},
+	],	
+	NICKNACK_1X1: 
+	[	
+		** Non upgraded:
+		{
+			ROTATES: false,
+			SHADOW_LENGTH: 3,
+			SHADOW_HEIGHT: 0,
+			FRAMES: 
+			[
+				TOP: 0,
+				TOP: 1,
+				ANIMAL: 0,
+				ANIMAL: 1,
+			],
+		},
+		** Upgrade 1:
+		{
+			ROTATES: false,
+			SHADOW_LENGTH: 3,
+			SHADOW_HEIGHT: 0,
+			FRAMES: 
+			[
+				TOP: 0,
+				TOP: 1,
+				TOP: 2,
+				TOP: 3,
+				ANIMAL: 0,
+				ANIMAL: 1,
+			],
+		},
+	],
+},
+

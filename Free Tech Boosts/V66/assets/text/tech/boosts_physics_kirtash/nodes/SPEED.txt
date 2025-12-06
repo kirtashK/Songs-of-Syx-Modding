@@ -1,0 +1,2 @@
+NAME: "Speed boost",
+DESC: "Extra boost.",

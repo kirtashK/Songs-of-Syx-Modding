@@ -1,0 +1,7 @@
+VERSION: "1.6",
+GAME_VERSION_MAJOR: 69,
+GAME_VERSION_MINOR: 65,
+NAME: "Traits Expanded",
+DESC: "Adds some traits.",
+AUTHOR: "Kirtash",
+INFO: "Adds some traits.", 

@@ -1,0 +1,2 @@
+NAME: "Papermaking boost",
+DESC: "Extra boost.",

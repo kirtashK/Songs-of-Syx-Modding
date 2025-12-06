@@ -1,0 +1,29 @@
+NAME: "Boosts - Behaviour",
+TECHS: 
+{
+	HAPPINESS: 
+    {
+		NAME: "Happiness boost",
+		DESC: "Boost to happiness.",
+	},
+	LAWFULNESS: 
+    {
+		NAME: "Lawfulness boost",
+		DESC: "Boost to lawfulness.",
+	},
+	LOYALTY: 
+    {
+		NAME: "Loyalty boost",
+		DESC: "Boosts the Loyalty of your citizens, reducing riots and usurping.",
+	},
+	SANITY: 
+    {
+		NAME: "Sanity boost",
+        DESC: "Reduces the chances of a subject becoming insane.",
+	},
+	SUBMISSION: 
+    {
+		NAME: "Submission boost",
+        DESC: "Slaves will revolt less.",
+	},
+},

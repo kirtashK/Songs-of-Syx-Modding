@@ -1,0 +1,2 @@
+NAME: "Offence skill boost",
+DESC: "Boost the chance of landing a hit.",

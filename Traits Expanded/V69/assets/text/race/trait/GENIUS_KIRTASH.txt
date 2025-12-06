@@ -1,0 +1,10 @@
+NAME: "Genius",
+TITLE: "The Genius",
+DESC: "Someone who is very smart.",
+
+BIO_DESC: [
+	"Likes to understand why anything happens.",
+    "{NAME} sneaks to the laboratories at night to do {HIS} own research.",
+    "Is drawn to the smell of new books.",
+    "Always understands faster than others.",
+],

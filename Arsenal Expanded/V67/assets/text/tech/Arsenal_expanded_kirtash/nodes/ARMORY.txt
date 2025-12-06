@@ -1,0 +1,3 @@
+NAME: "Armory",
+DESC: "Your weaponsmiths got ideas for a more diverse arsenal.",
+

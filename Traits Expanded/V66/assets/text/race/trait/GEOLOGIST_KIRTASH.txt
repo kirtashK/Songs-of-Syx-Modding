@@ -1,0 +1,3 @@
+NAME: "Geologist",
+TITLE: "The Geologist",
+DESC: "A better miner.",

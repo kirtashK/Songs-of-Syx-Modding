@@ -1,0 +1,2 @@
+NAME: "Cotton boost",
+DESC: "Extra boost.",

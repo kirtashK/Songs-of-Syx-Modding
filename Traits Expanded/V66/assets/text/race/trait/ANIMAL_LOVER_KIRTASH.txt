@@ -1,0 +1,3 @@
+NAME: "Animal lover",
+TITLE: "The Kind Soul",
+DESC: "Someone who loves taking care of animals.",

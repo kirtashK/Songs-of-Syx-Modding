@@ -1,0 +1,5 @@
+NAME: "Archery range",
+DESC: "
+	Allows us to train our archers to be more deadly.
+",
+

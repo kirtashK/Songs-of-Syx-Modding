@@ -1,0 +1,93 @@
+TREE: 
+{
+	0: [HUNTER,FISHERY,ENTELOPE,AUROCH,],
+	1: [ONX,GLOBDIEN,BALTI,_____,],
+},
+TECHS: 
+{
+
+	AUROCH: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_PASTURE_AUR>ADD: 0.1,
+		},
+	},
+	BALTI: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_PASTURE_BALTI>ADD: 0.1,
+		},
+	},
+	ENTELOPE: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_PASTURE_ENT>ADD: 0.1,
+		},
+	},
+	FISHERY: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_FISHERY_NORMAL>ADD: 0.1,
+		},
+	},
+	GLOBDIEN: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_PASTURE_GLOBDIEN>ADD: 0.1,
+		},
+	},
+	HUNTER: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_HUNTER_NORMAL>ADD: 0.1,
+		},
+	},
+	ONX: 
+	{
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 0,
+		},
+		BOOST: 
+		{
+			ROOM_PASTURE_ONX>ADD: 0.1,
+		},
+	},
+},

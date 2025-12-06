@@ -1,0 +1,2 @@
+NAME: "Furnish boost",
+DESC: "Furnish gets used slower.",

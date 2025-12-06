@@ -1,0 +1,2 @@
+NAME: "Pacifism boost",
+DESC: "Reduces the chances to be raided.",

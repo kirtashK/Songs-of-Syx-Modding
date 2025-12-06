@@ -1,0 +1,77 @@
+TREE: 
+{
+	0: [HUMAN,TILAPI,GARTHIMI,],
+	1: [AMEVIA,CRETONIAN,_____,],
+},
+CATEGORY: 99,
+COLOR: 0_148_255,
+
+TECHS: 
+{
+
+	AMEVIA: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_NURSERY_AMEVIA>ADD: 0.1,
+		},
+	},
+	CRETONIAN: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_NURSERY_CRETONIAN>ADD: 0.1,
+		},
+	},
+	GARTHIMI: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_NURSERY_GARTHIMI>ADD: 0.1,
+		},
+	},
+	HUMAN: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_NURSERY_HUMAN>ADD: 0.1,
+		},
+	},
+	TILAPI: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 10,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_NURSERY_TILAPI>ADD: 0.1,
+		},
+	},
+},

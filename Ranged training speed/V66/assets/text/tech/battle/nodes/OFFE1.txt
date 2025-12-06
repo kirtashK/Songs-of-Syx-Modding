@@ -1,0 +1,5 @@
+NAME: "Attack Techniques",
+DESC: "
+	Increases offence of our troops.
+",
+

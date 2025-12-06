@@ -1,0 +1,2 @@
+NAME: "Calm",
+DESC: "Someone who is a great administrator and has less chances to become insane.",

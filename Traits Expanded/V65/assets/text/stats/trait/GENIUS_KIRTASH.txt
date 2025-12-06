@@ -1,0 +1,2 @@
+NAME: "Genius",
+DESC: "Someone who is very smart.",

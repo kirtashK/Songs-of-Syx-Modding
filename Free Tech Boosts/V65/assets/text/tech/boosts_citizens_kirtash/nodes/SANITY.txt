@@ -1,0 +1,2 @@
+NAME: "Sanity boost",
+DESC: "Reduces the chances of a subject becoming insane.",

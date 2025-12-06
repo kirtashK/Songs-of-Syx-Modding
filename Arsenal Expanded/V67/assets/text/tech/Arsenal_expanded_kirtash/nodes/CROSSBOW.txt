@@ -1,0 +1,3 @@
+NAME: "Crossbow",
+DESC: "Produce crossbows, meant to deal high damage at long ranges at the cost of a slow reload and expensive production.",
+

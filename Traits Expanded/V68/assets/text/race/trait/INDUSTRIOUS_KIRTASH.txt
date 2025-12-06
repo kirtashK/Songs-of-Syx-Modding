@@ -1,0 +1,9 @@
+NAME: "Industrious",
+TITLE: "The Hard Worker",
+DESC: "A hard worker.",
+
+BIO_DESC: [
+	"{NAME} thinks everyone should make what they need.",
+    "Spends most of the night carving wood making sculptures.",
+    "{NAME} helped a blacksmith during {HIS} childhood, learning some tricks.",
+],

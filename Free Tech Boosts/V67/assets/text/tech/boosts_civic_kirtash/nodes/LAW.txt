@@ -1,0 +1,2 @@
+NAME: "Law boost",
+DESC: "Extra boost.",

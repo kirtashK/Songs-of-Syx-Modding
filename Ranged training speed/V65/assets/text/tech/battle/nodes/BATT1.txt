@@ -1,0 +1,5 @@
+NAME: "Soldiering",
+DESC: "
+	Elevate your drill sergeants' abilities to turn out good troops in short order.
+",
+

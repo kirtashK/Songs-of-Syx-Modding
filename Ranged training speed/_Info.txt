@@ -1,0 +1,7 @@
+VERSION: "1.4",
+GAME_VERSION_MAJOR: 69,
+GAME_VERSION_MINOR: 65,
+NAME: "Ranged training speed",
+DESC: "Creates a new tech node that boosts ranged training speed.",
+AUTHOR: "Kirtash",
+INFO: "Creates a new tech node that boosts ranged training speed.", 

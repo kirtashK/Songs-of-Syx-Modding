@@ -1,0 +1,9 @@
+NAME: "Green thumbs",
+TITLE: "The Farmer",
+DESC: "A better farmer.",
+
+BIO_DESC: [
+	"{NAME} could spend hours taking care of the farms.",
+    "During {HIS} childhood, helped {HIS} with the farms.",
+    "Never minded the hardwork of farms, {HE} finds it calming.",
+],

@@ -1,0 +1,3 @@
+NAME: "Ring",
+NAMES: "Rings",
+DESC: "Rings are cheap to make and elevate the wearer's self-esteem.",

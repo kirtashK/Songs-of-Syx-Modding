@@ -1,0 +1,2 @@
+NAME: "Auroch boost",
+DESC: "Extra boost.",

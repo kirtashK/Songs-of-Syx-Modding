@@ -1,0 +1,2 @@
+NAME: "Soiling boost",
+DESC: "Reduce how often citizens become dirty.",

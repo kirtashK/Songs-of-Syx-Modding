@@ -1,0 +1,4 @@
+NAME: "Clothier (Advanced)",
+DESC: "Upgrade your clothiers with advanced tools for the job.",
+
+

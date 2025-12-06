@@ -1,0 +1,2 @@
+NAME: "Careful",
+DESC: "Someone who likes doing everything slowly to avoid accidents, they take better care of their home furniture.",

@@ -1,0 +1,2 @@
+NAME: "Loyalty boost",
+DESC: "Increases the Loyalty of your citizens, preventing riots and usurping.",

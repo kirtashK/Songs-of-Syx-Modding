@@ -1,0 +1,2 @@
+NAME: "Globdien boost",
+DESC: "Extra boost.",

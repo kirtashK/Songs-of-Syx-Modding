@@ -1,0 +1,2 @@
+NAME: "Lifespan boost",
+DESC: "Extra boost.",

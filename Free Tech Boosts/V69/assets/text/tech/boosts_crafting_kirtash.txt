@@ -1,0 +1,54 @@
+NAME: "Boosts - Crafting",
+TECHS: 
+{
+	BOWYER: 
+    {
+		NAME: "Bowyer boost",
+        DESC: "Boost to bowyer's production.",
+	},
+	CARPENTRY: 
+    {
+		NAME: "Carpentry boost",
+        DESC: "Boost to carpentry's production.",
+	},
+	JEWELRY: 
+    {
+		NAME: "Jewelry boost",
+        DESC: "Boost to jewelry's production.",
+	},
+	MASON: 
+    {
+		NAME: "Mason boost",
+        DESC: "Boost to mason's production.",
+	},
+	MECHANIC: 
+    {
+		NAME: "Mechanic boost",
+        DESC: "Boost to mechanic's production.",
+	},
+	PAPERMAKING: 
+    {
+		NAME: "Papermaking boost",
+        DESC: "Boost to papermaking's production.",
+	},
+	POTTERY: 
+    {
+		NAME: "Pottery boost",
+        DESC: "Boost to pottery's production.",
+	},
+	RATIONMAKING: 
+    {
+		NAME: "Rationmaking boost",
+        DESC: "Boost to rationmaking's production.",
+	},
+	SMITHY: 
+    {
+		NAME: "Smithy boost",
+        DESC: "Boost to smithy's production.",
+	},
+	TAILOR: 
+    {
+		NAME: "Tailor boost",
+        DESC: "Boost to tailor's production.",
+	},
+},
