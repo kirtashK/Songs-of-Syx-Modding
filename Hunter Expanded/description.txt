@@ -1,20 +1,21 @@
 [h3] Supported versions [/h3]
-V65 - V69
+V65 - V70
 
 [h3] Description [/h3]
 This mod expands the vanilla hunter room, giving it two extra recipes and two technologies that gives boosts and an upgrade to the room.
 Once the hunter building gets upgraded, some new sprites get added to the room to reflect the upgrade visually.
-To compensate having more recipes to choose from, the max. number of employees before efficiency starts to decline has been buffed from 15 to 20.
+To compensate having more recipes to choose from, the maximun number of employees before efficiency starts to decline has been buffed from 15 to 20.
 
 Recipes added along vanilla recipes:
 [list]
 [*] Egg: 2.0
 [*] Cotton: 1.8
 [/list]
+(images show 3 extra recipes, however vanilla doesnt support multi-output recipes, so they are removed for now)
 
 [h3] Compatibility [/h3]
 This mod modifies vanilla hunter room, found in assets/init/room/HUNTER_NORMAL. In the case of a conflicting mod, depending on mod order, one mod will overwrite the other mod's conflicting file. Compatible with any mod that doesnt touch such file.
-Requires a new save, cant be removed from a save.
+Might require a new save, cant be removed from a save.
 
 [h3] Notes [/h3]
 If you find any bug or error, let me know!
