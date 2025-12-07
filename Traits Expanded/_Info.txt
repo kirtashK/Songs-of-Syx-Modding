@@ -1,5 +1,5 @@
-VERSION: "1.6",
-GAME_VERSION_MAJOR: 69,
+VERSION: "1.7",
+GAME_VERSION_MAJOR: 70,
 GAME_VERSION_MINOR: 65,
 NAME: "Traits Expanded",
 DESC: "Adds some traits.",

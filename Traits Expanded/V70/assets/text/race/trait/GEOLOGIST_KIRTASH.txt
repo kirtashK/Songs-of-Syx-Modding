@@ -1,0 +1,9 @@
+NAME: "Geologist",
+TITLE: "The Geologist",
+DESC: "A better miner.",
+
+BIO_DESC: [
+	"Likes the natural temperature of caves.",
+    "Has a collection of geodes under {HIS} pillow.",
+    "{NAME} relaxes when hearing the sound of pickaxes carving the caves.",
+],

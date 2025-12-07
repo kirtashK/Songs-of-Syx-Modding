@@ -1,8 +1,8 @@
 [h3] Supported versions [/h3]
-V65 - V69
+V65 - V70
 
 [h3] Description [/h3]
-In vanilla, there are 12 traits, this mod tries to expand upon this aspect by adding the following traits:
+Traits Expanded adds the following traits:
 [list]
 [*]Animal hater: 10% better hunter and fisher.
 [*]Animal lover: 10% better herder. Tilapis have this trait more often than other races.
@@ -15,12 +15,12 @@ In vanilla, there are 12 traits, this mod tries to expand upon this aspect by ad
 [*]Patriotic: 10% more loyal and lawful, trains 10% faster at both barracks and archery ranges.
 [/list]
 
-Each trait may have other traits they wont have at the same time, for example, an animal lover citizen wont have animal hater trait.
+Each trait may have other incompatible traits, for example, an "animal lover" citizen wont have the "animal hater" trait.
 
 [h3] What is a trait? [/h3]
-Traits are stat boosts and/or reductions that are applied per citizen based on a chance, the chance depends on the trait, genius have a lower chance of appearing than animal lover for example. 
+Traits are stat boosts and/or reductions that are applied per citizen based on chance, the chance depends on the trait, for example, genius have a lower chance of appearing than animal lover. 
 A citizen may have several traits, just one, or none. Each stat boost only applies to that citizen.
-Traits are a way to give flavour to your citizens, adding a bit of text to  their bio.
+Traits are a way to give flavour to your citizens, adding a bit of text to their bio.
 
 [h3] Compatibility [/h3]
 This mod only adds, it doesnt touch any vanilla file, therefore it should be compatible with all mods.

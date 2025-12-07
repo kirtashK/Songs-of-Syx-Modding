@@ -1,0 +1,10 @@
+NAME: "Animal lover",
+TITLE: "The Kind Soul",
+DESC: "Someone who enjoys taking care of animals.",
+
+BIO_DESC: [
+	"Likes bonding with animals on {HIS} free time.",
+    "Is drawn to the peaceful nature of herding.",
+    "Spent much of {HIS} childhood taking care of aurochs.",
+    "Once tried to sneak an Onx on {HIS} room to keep as pet.",
+],
