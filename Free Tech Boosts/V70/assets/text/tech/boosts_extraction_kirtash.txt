@@ -1,0 +1,39 @@
+NAME: "Boosts - Extraction",
+TECHS: 
+{
+	CLAY: 
+    {
+		NAME: "Clay boost",
+		DESC: "Boost to clay extraction.",
+	},
+	COAL: 
+    {
+		NAME: "Coal boost",
+		DESC: "Boost to coal extraction.",
+	},
+	JEWELRY: 
+    {
+		NAME: "Jewelry boost",
+		DESC: "Boost to jewelry extraction.",
+	},
+	ORE: 
+    {
+		NAME: "Ore boost",
+		DESC: "Boost to ore extraction.",
+	},
+	SITHILON: 
+    {
+		NAME: "Sithilon boost",
+		DESC: "Boost to sithilon extraction.",
+	},
+	STONE: 
+    {
+		NAME: "Stone boost",
+		DESC: "Boost to stone extraction.",
+	},
+	WOODCUTTER: 
+    {
+		NAME: "Woodcutter boost",
+		DESC: "Boost to wood extraction.",
+	},
+},

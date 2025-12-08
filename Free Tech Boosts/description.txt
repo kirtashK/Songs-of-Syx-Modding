@@ -1,21 +1,18 @@
 [h3] Supported versions [/h3]
-V65 - V69
+V65 - V70
 
 [h3] Description [/h3]
-This mods adds several tech nodes that are free (V69+ read notes below), allowing the player to choose/forget them at any point.
-Most of these new nodes give a 10% boost per level in a certain stat, like 10% more ore from mining, and have a maximun level of 10.
+This mods adds several tech nodes that cost the minimun (a bug in V69+ doesnt allow free techs), allowing the player to choose/forget them at any point.
+Most of these new nodes give a 10% boost per level in a certain stat, like 10% more ore from mining, and have a maximun level of 20.
 
-The point of this mod is to allow players to, at any moment, buff a certain stat, and whenever they want, forget that knowledge. For example, if you think ore production at the beggining is very slow and want to buff it only while you are under 500 population, and then forget the free bost and use vanilla ore technologies, this may help you.
-
-The reason why each level gives a 10% boost and the maximum level is 10, is because the AI factions can use these technologies aswell, if i put a very high level the AI factions will produce a lot more, screwing the economy for the player.
-For V69+, AI does not benefit from these boosts! 
+The point of this mod is to allow players to buff a certain stat, and whenever they want forget that knowledge. For example, if you think ore production at the beggining is very slow, you can buff it and when you want to, refund the tech boost.
+From V69+, AI does not benefit from these boosts.
 
 [h3] Compatibility [/h3]
 This mod only adds, it doesnt touch any vanilla file, therefore it should be compatible with all mods.
 Should be safe to add/remove to a save, do a backup first just in case! Your allocated knowledge points may reset after adding the mod.
 
 [h3] Notes [/h3]
-From V69, free technologies seem to bug the game and reset technologies, to fix this, technologies cost the minimun instead of being free.
 
 If you find any bug or error, let me know
 Any feedback is welcome, enjoy and have fun :)

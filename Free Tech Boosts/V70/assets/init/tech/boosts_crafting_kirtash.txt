@@ -1,0 +1,143 @@
+TREE: 
+{
+	0: [CARPENTRY,TAILOR,BOWYER,POTTERY,],
+	1: [SMITHY,MECHANIC,MASON,JEWELRY,],
+	2: [_____,PAPERMAKING,RATIONMAKING,_____,],
+},
+CATEGORY: 99,
+COLOR: 0_148_255,
+
+TECHS: 
+{
+
+	BOWYER: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_WORKSHOP_BOWYER>ADD: 0.1,
+		},
+	},
+	CARPENTRY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_WORKSHOP_CARPENTER>ADD: 0.1,
+		},
+	},
+	JEWELRY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_WORKSHOP_JEWELRY>ADD: 0.1,
+		},
+	},
+	MASON: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_WORKSHOP_MASON>ADD: 0.1,
+		},
+	},
+	MECHANIC: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_WORKSHOP_MECHANIC>ADD: 0.1,
+		},
+	},
+	PAPERMAKING: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_WORKSHOP_PAPER>ADD: 0.1,
+		},
+	},
+	POTTERY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_WORKSHOP_POTTERY>ADD: 0.1,
+		},
+	},
+	RATIONMAKING: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_WORKSHOP_RATION>ADD: 0.1,
+		},
+	},
+	SMITHY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_WORKSHOP_SMITHY>ADD: 0.1,
+		},
+	},
+	TAILOR: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_WORKSHOP_TAILOR>ADD: 0.1,
+		},
+	},
+},

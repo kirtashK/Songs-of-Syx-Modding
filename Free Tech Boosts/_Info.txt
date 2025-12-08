@@ -1,5 +1,5 @@
-VERSION: "1.7",
-GAME_VERSION_MAJOR: 69,
+VERSION: "1.8",
+GAME_VERSION_MAJOR: 70,
 GAME_VERSION_MINOR: 65,
 NAME: "Free Tech Boosts",
 DESC: "Allows the player to pick/forget free tech that give certain boosts.",

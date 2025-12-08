@@ -1,0 +1,195 @@
+TREE: 
+{
+	0: [MAINTENANCE,SPOILAGE,FURNISH,INNOVATION,KNOWLEDGE,],
+	1: [STOCKPILE,DEFLATION,ACCIDENT,NOBILITIES,OPINION,],
+	2: [LAW,INMIGRATION,PACIFISM,EMISSARY,_____,],
+},
+CATEGORY: 99,
+COLOR: 0_148_255,
+
+TECHS: 
+{
+
+	ACCIDENT: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_ACCIDENT>ADD: 0.1,
+		},
+	},
+	INNOVATION: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_INNOVATION>MUL: 1.1,
+		},
+	},
+	DEFLATION: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_DEFLATION>ADD: 0.1,
+		},
+	},
+	EMISSARY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_DIPLOMACY>ADD: 0.1,
+		},
+	},
+	FURNISH: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_FURNITURE>ADD: 0.1,
+		},
+	},
+	INMIGRATION: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_IMMIGRATION>ADD: 0.1,
+		},
+	},
+	KNOWLEDGE: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_KNOWLEDGE>MUL: 1.1,
+		},
+	},
+	LAW: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_LAW>ADD: 0.1,
+		},
+	},
+	MAINTENANCE: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_MAINTENANCE>ADD: 0.1,
+		},
+	},
+	NOBILITIES: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_NOBLES_MAX>ADD: 0.1,
+		},
+	},
+	OPINION: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_OPINION>ADD: 0.1,
+		},
+	},
+	PACIFISM: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_RAIDING>ADD: 0.1,
+		},
+	},
+	SPOILAGE: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_SPOILAGE>ADD: 0.1,
+		},
+	},
+	STOCKPILE: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_STOCKPILE>ADD: 0.2,
+		},
+	},
+},

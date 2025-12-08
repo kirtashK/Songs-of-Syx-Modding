@@ -1,0 +1,75 @@
+NAME: "Boosts - Civic",
+TECHS: 
+{
+	ACCIDENT: 
+    {
+		NAME: "Accident prevention boost",
+        DESC: "Reduce accident rate.",
+	},
+	INNOVATION: 
+    {
+		NAME: "Innovation boost",
+        DESC: "Boost innovation.",
+	},
+	DEFLATION: 
+    {
+		NAME: "Deflation boost",
+        DESC: "Decreases deflation, meaning you lose less by it.",
+	},
+	EMISSARY: 
+    {
+		NAME: "Emissary points boost",
+        DESC: "Boost to emissary points.",
+	},
+	FURNISH: 
+    {
+		NAME: "Furnish boost",
+        DESC: "Furnish gets used slower.",
+	},
+	INMIGRATION: 
+    {
+		NAME: "Inmigration boost",
+        DESC: "Increases the rate at which inmigrations happen.",
+	},
+	KNOWLEDGE: 
+    {
+		NAME: "Knowledge boost",
+        DESC: "Boost to knowledge.",
+	},
+	LAW: 
+    {
+		NAME: "Law boost",
+        DESC: "Boost to law.",
+	},
+	MAINTENANCE: 
+    {
+		NAME: "Maintenance boost",
+        DESC: "Boost to maintenance.",
+	},
+	NOBILITIES: 
+    {
+		NAME: "Nobilities boost",
+        DESC: "Boost to nobilities.",
+	},
+	OPINION: 
+    {
+		NAME: "Opinion boost",
+        DESC: "Boost to opinion.",
+	},
+	PACIFISM: 
+    {
+		NAME: "Pacifism boost",
+        DESC: "Reduces the chances of being raided.",
+	},
+	SPOILAGE: 
+    {
+		NAME: "Spoilage prevention boost",
+        DESC: "Reduces spoilage.",
+	},
+	STOCKPILE: 
+    {
+		NAME: "Hauler boost",
+        DESC: "Hauler can hold more items.",
+	},
+},
+

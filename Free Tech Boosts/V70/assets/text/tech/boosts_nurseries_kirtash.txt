@@ -1,0 +1,30 @@
+NAME: "Boosts - Nurseries",
+TECHS: 
+{
+	AMEVIA: 
+    {
+		NAME: "Amevia's nursery boost",
+		DESC: "Boost to Amevians nurseries.",
+	},
+	CRETONIAN: 
+    {
+		NAME: "Cretonian's nursery boost",
+		DESC: "Boost to cretonians nurseries.",
+
+	},
+	GARTHIMI: 
+    {
+		NAME: "Garthimi's nursery boost",
+		DESC: "Boost to garthimis nurseries.",
+	},
+	HUMAN: 
+    {
+		NAME: "Human's nursery boost",
+		DESC: "Boost to humans nurseries.",
+	},
+	TILAPI: 
+    {
+		NAME: "Tilapi's nursery boost",
+		DESC: "Boost to tilapis nurseries.",
+	},
+},

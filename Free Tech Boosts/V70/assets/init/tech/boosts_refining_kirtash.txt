@@ -1,0 +1,77 @@
+TREE: 
+{
+	0: [BAKERY,BREWERY,WEAVER,],
+	1: [SMELTER,CHARCOAL,_____,],
+},
+CATEGORY: 99,
+COLOR: 0_148_255,
+
+TECHS: 
+{
+
+	BAKERY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_REFINER_BAKERY>ADD: 0.1,
+		},
+	},
+	BREWERY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_REFINER_BREWERY>ADD: 0.1,
+		},
+	},
+	CHARCOAL: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_REFINER_COALER>ADD: 0.1,
+		},
+	},
+	SMELTER: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_REFINER_SMELTER>ADD: 0.1,
+		},
+	},
+	WEAVER: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_REFINER_WEAVER>ADD: 0.1,
+		},
+	},
+},

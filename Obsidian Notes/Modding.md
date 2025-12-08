@@ -3,9 +3,16 @@
 
 - [ ] Arsenal Expanded 3130192483
 	- [ ] Vanilla spears? Modded spears & club on new cheap building? Or lock behind room upgrade the more powerful weaponry?
+	- [ ] Daggers: attack speed removed, improve dext instead
 - [ ] Clothing Expanded 3126483222
-- [ ] Free Tech Boosts 3120833855
-	- [ ] Check cost, increase max? increase 10% to 25%?
+- [x] Free Tech Boosts 3120833855
+	- [x] Increased max to 20
+	- [x] War beast pasture
+	- [x] Attack rate removed in V70
+	- [x] Block
+	- [x] Dexterity
+	- [x] Charge
+	- [x] Formation
 - [x] Hunter Expanded 3133779397
 - [ ] Less Spoilage 3119875979
 - [x] Ranged training speed 3119920344
