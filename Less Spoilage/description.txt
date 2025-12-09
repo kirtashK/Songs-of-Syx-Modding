@@ -1,57 +1,23 @@
 [h3] Supported versions [/h3]
-V65 - V69
+V65 - V70
 
 [h3] Description [/h3]
-Reduces spoilage for some items, wear rate for clothes and jewelry, and improves citizens fullfilment from jewelry.
+Reduces spoilage for some items and wear rate of jewelry.
 
 [b] Items modified: [/b]
 [list]
-[*]Clothes: 0.2 -> 0.15, wear rate: 0.5 -> 0.25 (in V68+, vanilla wear rate is 0.25 and in V69+, vanilla spoilage is 0.1)
-[*]Jewelry: only wear rate: 0.5 -> 0.25
-[*]Alcohol beer: 0.2 -> 0.1
-[*]Alcohol wine: 0.2 -> 0.1 for V68-. V69+ vanilla spoilage is 0.1
+[*]Jewelry: wear rate: 0.5 -> 0.25
 [*]Livestock: 0.5 -> 0.25
-[*]Bow: 0.12 -> 0.08 for V68-. V69+ vanilla spoilage is 0.05
+[*]Alcohol beer: 0.2 -> 0.1
 [*]Bread: 1.0 -> 0.4
 [*]Fish: 1.0 -> 0.4
 [*]Fruit: 0.5 -> 0.4
-[*]Furniture: 0.25 -> 0.15 for V68-. V69+ vanilla spoilage is 0.02
-[*]Grain: 0.25 -> 0.15 for V68-. V69+ vanilla spoilage is 0.1
 [*]Herb: 0.2 -> 0.1
-[*]Machinery: 0.25 -> 0.15 for V68-. V69+ vanilla spoilage is 0.05
 [*]Meat: 0.75 -> 0.5
-[*]Metal: 0.08 -> 0.05 For V68-. V69+ vanilla spoilage is 0.05
-[*]Tool: 0.25 -> 0.15 for V65. V66+ vanilla spoilage is 0.1
-[*]Vegetable: 0.5 -> 0.4.
+[*]Vegetable: 0.5 -> 0.4
 [/list]
 
-[b] Items unmodified: [/b]
-[list]
-[*]Wood
-[*]Stone
-[*]Leather armour
-[*]Plate armour
-[*]Clay
-[*]Coal
-[*]Cotton
-[*]Egg
-[*]Fabric
-[*]Gem
-[*]Leather
-[*]Mushroom
-[*]Opiates
-[*]Ore
-[*]Paper
-[*]Pottery
-[*]Ration
-[*]Sithilon
-[*]Cut stone
-[*]Tool in V66
-[*]Hammer
-[*]Shield
-[*]Short
-[*]Slash
-[/list]
+Items not listed are not modified
 
 [h3] Compatibility [/h3]
 This mod touches vanilla files, if you are using a mod that also touches them, depending on the load order, one mod may overwrite the conflicting files of the other mod.

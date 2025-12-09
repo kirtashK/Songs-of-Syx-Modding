@@ -14,7 +14,7 @@
 	- [x] Charge
 	- [x] Formation
 - [x] Hunter Expanded 3133779397
-- [ ] Less Spoilage 3119875979
+- [x] Less Spoilage 3119875979
 - [x] Ranged training speed 3119920344
 - [x] Traits Expanded 3123118819
 
