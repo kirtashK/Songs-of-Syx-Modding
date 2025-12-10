@@ -1,0 +1,3 @@
+NAME: "Body strap",
+NAMES: "Body straps",
+DESC: "Body straps are a set of ropes and chains used to make slaves more submissive, however they make them slower and unhappy. They dont last long.",

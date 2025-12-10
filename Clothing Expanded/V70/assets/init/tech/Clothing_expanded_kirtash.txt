@@ -1,0 +1,121 @@
+TREE: 
+{
+	0: [_____,CLOTHIER,_____,],
+	1: [CLOTHIER_BOOST,CLOTHIER_UPGRADE_1,CLOTHIER_SLAVE,],
+	2: [_____,CLOTHIER_UPGRADE_2,_____,],
+},
+CATEGORY: 5,
+COLOR: 192_192_192,
+TECHS: 
+{
+	CLOTHIER: 
+    {
+		COSTS: 
+        {
+			CIVIC_INNOVATION: 10,
+		},
+        REQUIRES: 
+        {
+            GREATER:
+            {
+                POPULTAION_CITIZEN_I: 125,	** Requires 125 citizens
+            },	
+        },
+		UNLOCKS_FACTION: 
+        [
+            ROOM_WORKSHOP_CLOTHIER_KIRTASH,	** Unlocks the room to craft the items added by the mod
+        ],
+	},
+	CLOTHIER_BOOST: 
+    {
+        LEVEL_MAX: 4,
+        LEVEL_COST_INC: 3,
+		COSTS: 
+        {
+			CIVIC_INNOVATION: 13,
+		},
+        REQUIRES_TECH_LEVEL: 
+        {
+            CLOTHIER: 1,	** Requieres Clothier tech researched
+        },
+		BOOST: 
+        {
+            ROOM_WORKSHOP_CLOTHIER_KIRTASH>ADD: 0.15,
+        },
+	},	
+	CLOTHIER_SLAVE: 
+    {
+		COSTS: 
+        {
+			CIVIC_INNOVATION: 18,
+		},
+        REQUIRES: 
+        {
+            GREATER:
+            {
+                POPULTAION_SLAVE_I: 75,	** Requieres 75 slaves
+            },	
+        },
+        REQUIRES_TECH_LEVEL: 
+        {
+            CLOTHIER: 1,	** Requieres Clothier tech researched
+        },
+		UNLOCKS_FACTION: 
+        [
+           ROOM_WORKSHOP_CLOTHIER_KIRTASH_RECIPE_4,	** Unlock body strap recipe
+        ],
+	},
+	CLOTHIER_UPGRADE_1: 
+    {
+		COSTS: 
+        {
+			CIVIC_INNOVATION: 28,
+		},
+        REQUIRES: 
+        {
+            GREATER:
+            {
+                POPULTAION_CITIZEN_I: 250,	** Requieres 250 citizens
+            },	
+        },
+        REQUIRES_TECH_LEVEL: 
+        {
+            CLOTHIER: 1,	** Requieres Clothier tech researched
+        },
+		UNLOCKS_FACTION: 
+        [
+           ROOM_WORKSHOP_CLOTHIER_KIRTASH_UPGRADE_1,
+        ],
+        BOOST: 
+        {
+            ROOM_WORKSHOP_CLOTHIER_KIRTASH>ADD: 0.15,
+        },
+	},
+	CLOTHIER_UPGRADE_2: 
+    {
+		COSTS: 
+        {
+			CIVIC_INNOVATION: 43,
+		},
+        REQUIRES: 
+        {
+            GREATER:
+            {
+                POPULTAION_CITIZEN_I: 450,	** Requieres 450 citizens
+            },	
+        },
+        REQUIRES_TECH_LEVEL: 
+        {
+            CLOTHIER_UPGRADE_1: 1,
+        },
+		UNLOCKS_FACTION: 
+        [
+           ROOM_WORKSHOP_CLOTHIER_KIRTASH_UPGRADE_2,
+        ],
+        BOOST: 
+        {
+            ROOM_WORKSHOP_CLOTHIER_KIRTASH>ADD: 0.25,
+        },
+	},
+},
+

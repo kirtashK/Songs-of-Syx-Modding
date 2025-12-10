@@ -150,6 +150,7 @@ ROOM_ARCHERY_VANILLA  - Archery Range
 ROOM_ARTILLERY_CATAPULT  - Catapults
 ROOM_BARRACKS_VANILLA  - Training Ground
 ROOM_EMBASSY  - Embassies
+
 ROOM_FARM_COTTON  - Cotton Farms
 ROOM_FARM_FRUIT  - Fruit Farms
 ROOM_FARM_GRAIN  - Grain Farms
@@ -157,36 +158,44 @@ ROOM_FARM_HERB  - Herb Farms
 ROOM_FARM_MUSHROOM  - Mushroom Farms
 ROOM_FARM_SPICES  - Opiate Farms
 ROOM_FARM_VEG  - Vegetable Farms
+
 ROOM_FISHERY_NORMAL  - Fisheries
 ROOM_HUNTER_NORMAL  - Hunters
 ROOM_LABORATORY_NORMAL  - Laboratories
 ROOM_LIBRARY_NORMAL  - Libraries
+
 ROOM_MINE_CLAY  - Claypits
 ROOM_MINE_COAL  - Coal Mines
 ROOM_MINE_GEM  - Gem Mines
 ROOM_MINE_ORE  - Ore Mines
 ROOM_MINE_SITHILON  - Sithilon Mines
 ROOM_MINE_STONE  - Stone Mines
+
 ROOM_NURSERY_AMEVIA  - Amevian Hatcheries
 ROOM_NURSERY_CRETONIAN  - Cretonian Breeders
 ROOM_NURSERY_GARTHIMI  - Garthimi Hatcheries
 ROOM_NURSERY_HUMAN  - Human Nurseries
 ROOM_NURSERY_TILAPI  - Tilapi Nurseries
+
 ROOM_ORCHARD_FRUIT  - Fruit Orchards
+
 ROOM_PASTURE_AUR  - Auroch Pastures
 ROOM_PASTURE_BALTI  - Balticrawler Breeder
 ROOM_PASTURE_ENT  - Entelodont Pastures
 ROOM_PASTURE_GLOBDIEN  - Globdien Pastures
 ROOM_PASTURE_MOUNT  - War-Beast Pastures
 ROOM_PASTURE_ONX  - Onx Pastures
+
 ROOM_REFINER_BAKERY  - Bakeries
 ROOM_REFINER_BREWERY  - Breweries
 ROOM_REFINER_COALER  - Charcoalers
 ROOM_REFINER_SMELTER  - Metal Smelters
 ROOM_REFINER_WEAVER  - Weavers
+
 ROOM_STOCKPILE  - Carry Capacity
 ROOM_UNIVERSITY_NORMAL  - University
 ROOM_WOODCUTTER  - Woodcutters
+
 ROOM_WORKSHOP_BOWYER  - Bowyers
 ROOM_WORKSHOP_CARPENTER  - Carpenters
 ROOM_WORKSHOP_JEWELRY  - Jewellers

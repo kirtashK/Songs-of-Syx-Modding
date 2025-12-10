@@ -1,5 +1,5 @@
 [h3] Supported versions [/h3]
-V65 - V69
+V65 - V70
 
 [h3] Description [/h3]
 Adds the following items that can be equipped by citizens just like vanilla clothes to gain bonuses or fulfillment:
@@ -13,7 +13,7 @@ Adds the following items that can be equipped by citizens just like vanilla clot
 [/list]
 
 All these items are made at a new workshop, Clothier.
-Also adds a small technology tree to unlock the clothier and boosts/upgrades to the workshop.
+Also adds a technology tree to unlock the clothier and boosts/upgrades to the workshop.
 
 [h3] How do I equip them? [/h3]
 Same way you equip clothes, go to citizens -> access and click the + to assign more or less.

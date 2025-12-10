@@ -1,5 +1,5 @@
-VERSION: "1.5",
-GAME_VERSION_MAJOR: 69,
+VERSION: "1.6",
+GAME_VERSION_MAJOR: 70,
 GAME_VERSION_MINOR: 65,
 NAME: "Clothing Expanded",
 DESC: "Adds items that your citizens can wear to gain bonuses or fulfilment.",
