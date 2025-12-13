@@ -1,22 +1,22 @@
 [h3] Supported versions [/h3]
-V65 - V69
+V65 - V70
 
 [h3] Description [/h3]
-Vanilla arsenal is a bit limited, there is: two handed sword, one handed sword, two handed hammer, shield and bow.
+Vanilla arsenal is a bit limited, there is: two handed sword, one handed sword, two handed hammer, spear, shield and bow.
 This mod aims to expand this aspect by adding the following items:
 
 [list]
 [img] https://i.imgur.com/y8twt3s.png [/img]
-[img] https://i.imgur.com/0K9xyxB.png [/img]
-[img] https://i.imgur.com/gHPoY9p.png [/img]
-[img] https://i.imgur.com/7Ih6J2E.png [/img]
-[img] https://i.imgur.com/lNaYrXB.png [/img]
+[img] https://i.imgur.com/2xRCrwz.png [/img]
+[img] https://i.imgur.com/MXDeA2t.png [/img]
+[img] https://i.imgur.com/40hrTbf.png [/img]
+[img] https://i.imgur.com/nqCR8HS.png [/img]
+[img] https://i.imgur.com/07iVkzI.png [/img]
+[img] https://i.imgur.com/GHcl47G.png [/img]
 [img] https://i.imgur.com/QWrjAH7.png [/img]
 [img] https://i.imgur.com/Qvsp9Wi.png [/img]
 [img] https://i.imgur.com/CJoVRS5.png [/img]
 [img] https://i.imgur.com/W3vO081.png [/img]
-[img] https://i.imgur.com/tciBW59.png [/img]
-[img] https://i.imgur.com/VjGK7gf.png [/img]
 [/list]
 
 All these items are made at a new workshop, Armory.
@@ -25,13 +25,8 @@ This mod also adds technology nodes to unlock the armory, boosts & upgrades to t
 [h3] What about AI factions? [/h3]
 The mod adds new divisions along with the vanilla ones in order to allow AI to use these items, for example, you may find a division carrying plate armor, heavy shield and a morning star, as well as a division with armor leather, vanilla shield and dagger. In total, this mod adds 27 options for divisions, 8 of them being vanilla options carrying banners, whetsones or heavy shields.
 
-[h3] Attack speed [/h3]
-You may notice that the weapon's tooltips call attack speed as offence skill, and offence skill as offence skill too, this is a vanilla problem, both atributes have the same name when shown in tooltips.
-While testing the mod, I noticed attack speed (ATTACK_RATE) wasnt working, reported the bug to Jake who says he will check it eventually.
-
 [h3] Compatibility [/h3]
-For V65, this mod touches only one vanilla file, assets/init/room/ARCHERY_VANILLA, it adds two lines to that file so crossbows get a ranged skill, so training affects it, and adds a small boost to stamina to the training, in the case of a conflicting mod, depending on mod order, one mod will overwrite the other mod's conflicting file. Compatible with any mod that doesnt touch such file.
-For V66+, crossbow training has been moved to a new training range to improve compatibility.
+Doesnt touch vanilla files so it should be compatible with other mods.
 Requires a new save, cant be removed from a save.
 
 [h3] Notes [/h3]

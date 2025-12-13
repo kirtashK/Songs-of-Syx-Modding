@@ -1,0 +1,44 @@
+RESOURCE: STONE_ARROW_KIRTASH,
+WEAR_RATE: 0.5,
+MAX_AMOUNT: 4,
+ARRIVAL_AMOUNT: 0,
+DEFAULT_TARGET: 0,
+
+DIV_SPRITE: 
+{
+	X: -14,
+	Y: -16,
+	Z: 0,
+	ICON: 24->Equipment_Arsenal_Expanded_Kirtash->7,
+	COLOR: 
+	[
+		175_112_66,
+		200_200_200,
+		255_190_0,
+	],
+},
+
+AMOUNT_IN_GARRISON: 0,
+EQUIP_GUARDS: 0,
+SLOT_USAGE: 
+[
+	0, 
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	1.0,	** slot for this mod's accesories	
+],
+
+RACE_ALLOWED: 
+[
+	*,
+],
+
+BOOST: 
+{
+	BATTLE_RANGED_BOW>ADD: 0.35,
+	BATTLE_RANGED_CROSSBOW_KIRTASH>ADD: 0.35,
+},

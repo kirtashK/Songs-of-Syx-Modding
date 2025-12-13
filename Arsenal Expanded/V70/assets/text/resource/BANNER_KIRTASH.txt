@@ -1,0 +1,3 @@
+NAME: "Banner",
+NAMES: "Banners",
+DESC: "Have your troops carry banners, improving their morale. Due all the chaos of combat, banners dont last long.",

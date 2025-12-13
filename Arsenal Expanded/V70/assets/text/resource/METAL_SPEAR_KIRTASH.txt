@@ -1,0 +1,3 @@
+NAME: "Metal spear",
+NAMES: "Metal spears",
+DESC: "Metal spears have wooden polished shafts with a sharpened metal tip, they deal low piercing damage.%r%Thanks to their length and pointy ends, all defenses are increased at the front",
