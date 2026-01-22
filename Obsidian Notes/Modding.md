@@ -1,5 +1,20 @@
+#### General info
 
-#### Needs updating to \[V70]
+Equipment slot usage:
+\[
+	0, 	*** Armor
+	0,		*** Weaponry
+	0,	    *** Shields & Ranged
+	0,		*** Mounts
+	0,
+	0,
+	0,
+	0,	
+]
+
+%r% to make a jump in text.
+
+#### Version \[V70]
 
 - [x] Arsenal Expanded 3130192483
 	- [x] Vanilla spears? Modded spears & club on new cheap building? Or lock behind room upgrade the more powerful weaponry?
@@ -29,17 +44,30 @@
 - [x] Ranged training speed 3119920344
 - [x] Traits Expanded 3123118819
 
+#### Version \[V71]
 
-Equipment slot usage:
-\[
-	0, 	*** Armor
-	0,		*** Weaponry
-	0,	    *** Shields & Ranged
-	0,		*** Mounts
-	0,
-	0,
-	0,
-	0,	
-]
+- [ ] Arsenal Expanded 3130192483
+	- [ ] Metal spears change to one handed? make a bit weaker if so, differentiate them from pikes & vanilla spears
+	- [ ] Tech to boost crossbow training speed?
+	- [ ] Crossbow is too op compared to maxed bows
+		- [ ] Maybe change and make them different, instead of precise, long range & slow, turn into repeating crossbows? Probably not
+		- [ ] Too much blunt dmg, arrows are typically heavier (projectile speed?)
+		- [ ] Too much range (proj. speed?)
+		- [ ] High pierce damage
+		- [ ] Ammo seems balanced
+		- [ ] Reduce arc?
+		- [ ] Reduce maxed reload speed?
+		- [ ] Differentiate from bow:
+			- [ ] Crossbows require less training and less stamina
+			- [ ] Crossbows benefit less from training
+	- [ ] Stone & Metal arrows give too much of a boost, reduce
+- [ ] Clothing Expanded 3126483222
+- [ ] Free Tech Boosts 3120833855
+- [ ] Hunter Expanded 3133779397
+	- [ ] Hunt livestock - lock behind tech
+- [ ] Less Spoilage 3119875979
+	- [ ] Change info & desc (refers to jewelry)
+- [ ] Ranged training speed 3119920344
+- [ ] Traits Expanded 3123118819
+	- [ ] Freshen up the texts so they are more vanilla-like
 
-%r% to make a jump in text.
