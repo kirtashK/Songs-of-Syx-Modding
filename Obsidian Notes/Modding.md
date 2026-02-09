@@ -55,12 +55,14 @@ Equipment slot usage:
 		- [ ] Too much range (proj. speed?)
 		- [ ] High pierce damage
 		- [ ] Ammo seems balanced
+		- [ ] Reducing mass reduces damage output but range seems unnafected
 		- [ ] Reduce arc?
 		- [ ] Reduce maxed reload speed?
 		- [ ] Differentiate from bow:
 			- [ ] Crossbows require less training and less stamina
 			- [ ] Crossbows benefit less from training
 	- [ ] Stone & Metal arrows give too much of a boost, reduce
+	- [ ] Icons of squad arent shown properly, it should be shield at left and weapons at right, but everything added by mod is at left
 - [ ] Clothing Expanded 3126483222
 - [ ] Free Tech Boosts 3120833855
 - [ ] Hunter Expanded 3133779397
