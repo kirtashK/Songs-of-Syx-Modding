@@ -1,12 +1,11 @@
 [h3] Supported versions [/h3]
-V65 - V70
+V65 - V71
 
 [h3] Description [/h3]
-Reduces spoilage for some items and wear rate of jewelry.
+Reduces spoilage (degrade rate) for some items and wear rate for jewelry.
 
 [b] Items modified: [/b]
 [list]
-[*]Jewelry: wear rate: 0.5 -> 0.25
 [*]Livestock: 0.5 -> 0.25
 [*]Alcohol beer: 0.2 -> 0.1
 [*]Bread: 1.0 -> 0.4
@@ -15,15 +14,17 @@ Reduces spoilage for some items and wear rate of jewelry.
 [*]Herb: 0.2 -> 0.1
 [*]Meat: 0.75 -> 0.5
 [*]Vegetable: 0.5 -> 0.4
+[*]Jewelry (wear rate): 0.5 -> 0.25
 [/list]
 
 Items not listed are not modified
 
 [h3] Compatibility [/h3]
 This mod touches vanilla files, if you are using a mod that also touches them, depending on the load order, one mod may overwrite the conflicting files of the other mod.
+Since V71, instead of modifying whole vanilla files, its now possible to modify only specific areas of the files, improving compatibility.
 Should be safe to add/remove to a save, do a backup first just in case!
 
 [h3] Notes [/h3]
 If you find any bug or error, let me know!
-Any feedback is welcome, enjoy and have fun!
+Feedback is welcome, enjoy and have fun!
 Mod ID: 3119875979

@@ -1,5 +1,5 @@
-VERSION: "1.6",
-GAME_VERSION_MAJOR: 70,
+VERSION: "1.7.0",
+GAME_VERSION_MAJOR: 71,
 GAME_VERSION_MINOR: 65,
 NAME: "Less Spoilage",
 DESC: "Reduces spoilage for some items, wear rate for clothes and jewelry.",
