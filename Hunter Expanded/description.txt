@@ -1,20 +1,23 @@
 [h3] Supported versions [/h3]
-V65 - V70
+V65 - V71
 
 [h3] Description [/h3]
 This mod expands the vanilla hunter room, giving it two extra recipes and two technologies that gives boosts and an upgrade to the room.
 Once the hunter building gets upgraded, some new sprites get added to the room to reflect the upgrade visually.
-To compensate having more recipes to choose from, the maximun number of employees before efficiency starts to decline has been buffed from 15 to 20.
+To compensate having more recipes to choose from, the maximum number of employees before efficiency starts to decline has been buffed from 15 to 20.
 
 Recipes added along vanilla recipes:
 [list]
 [*] Egg: 2.0
 [*] Cotton: 1.8
+[*] Livestock: 0.03
 [/list]
-(images show 3 extra recipes, however vanilla doesnt support multi-output recipes, so they are removed for now)
+Livestock hunting is meant to be slow and inneficient, it's main purpose is to help set up early-game husbandry.
+(images show 3 extra multi-output recipes, however vanilla doesnt support multi-output recipes, so they had to be removed and i cant be arsed to change the image)
 
 [h3] Compatibility [/h3]
 This mod modifies vanilla hunter room, found in assets/init/room/HUNTER_NORMAL. In the case of a conflicting mod, depending on mod order, one mod will overwrite the other mod's conflicting file. Compatible with any mod that doesnt touch such file.
+Since V71, instead of modifying whole vanilla files, its now possible to modify only specific areas of the files, improving compatibility.
 Might require a new save, cant be removed from a save.
 
 [h3] Notes [/h3]
