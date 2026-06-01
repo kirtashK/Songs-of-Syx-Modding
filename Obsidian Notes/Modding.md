@@ -12,6 +12,8 @@ Equipment slot usage:
 	0,	
 ]
 
+__OVERWRITE: true, to overwrite a full vanilla file
+
 %r% to make a jump in text.
 
 #### Version \[V70]
@@ -46,6 +48,8 @@ Equipment slot usage:
 
 #### Version \[V71]
 
+Adapt to work with vanilla files where it makes sense (example: wooden clubs on carpenter)
+
 - [ ] Arsenal Expanded 3130192483
 	- [ ] Metal spears change to one handed? make a bit weaker if so, differentiate them from pikes & vanilla spears
 	- [ ] Tech to boost crossbow training speed?
@@ -61,18 +65,37 @@ Equipment slot usage:
 		- [ ] Differentiate from bow:
 			- [ ] Crossbows require less training and less stamina
 			- [ ] Crossbows benefit less from training
-	- [ ] Stone & Metal arrows give too much of a boost, reduce
+	- [ ] Stone & Metal arrows give too much of a boost, reduce?
+	- [ ] New armors? Chainmail?
 	- [ ] Icons of squad arent shown properly, it should be shield at left and weapons at right, but everything added by mod is at left
 	- [ ] Division types
 		- [ ] Update, some stuff is changed, like weapons having different roles or 1H to 2H etc
 		- [ ] Add crossbow training to crossbow div
 - [ ] Clothing Expanded 3126483222
-- [ ] Free Tech Boosts 3120833855
-- [ ] Hunter Expanded 3133779397
-	- [ ] Hunt livestock - lock behind tech
-- [ ] Less Spoilage 3119875979
-	- [ ] Change info & desc (refers to jewelry)
-- [ ] Ranged training speed 3119920344
+- [x] Free Tech Boosts 3120833855
+	- [x] New techs
+		- [x] Gov boost CIVIC_GOV
+		- [x] Prod. rate of embassies ROOM_EMBASSY
+		- [x] Schools ROOM_SCHOOL_NORMAL
+		- [x] Reproduction age PHYSICS_REPRODUCTION_AGE
+		- [x] Natural births PHYSICS_REPRODUCTION_SPEED
+		- [x] Happiness (slave) BEHAVIOUR_HAPPINESS_SLAVES
+		- [x] Noble promotion CIVIC_NOBLES_RANKS_MAX
+		- [x]  Administration  CIVIC_ADMIN
+		- [x] Trust CIVIC_TRUST
+	- [x] Text
+	- [x] Order & look pretty on tree
+	- [x] Nursery tech seems to have changed to a generic nursery & garthimi breeder
+	- [x] Tech system looks changed, each tree is now a category instead of appearing on a global tree
+- [x] Hunter Expanded 3133779397
+	- [x] Hunt livestock
+	- [x] Tech icon
+- [x] Less Spoilage 3119875979
+	- [x] Change info & desc (refers to jewelry)
+- [x] Ranged training speed 3119920344
+	- [x] Improve description, too messy
 - [ ] Traits Expanded 3123118819
 	- [ ] Freshen up the texts so they are more vanilla-like
+	- [ ] Use suggestions from zip in desktop
+		- [ ] Give credit in description to Arrevax (check discord)
 
