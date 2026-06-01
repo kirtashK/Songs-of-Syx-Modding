@@ -1,0 +1,1370 @@
+CATEGORY: 690,
+ICON: 32->KNOWLEDGE->0,
+COLOR: 0_0_255,
+
+TREE: 
+{
+	0: [_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,],
+
+	1: [_____,HAPPINESS,_____,HAPPINESS_SLAVES,_____,LOYALTY,_____,SUBMISSION,_____,SANITY,_____,LAWFULNESS,],
+
+	2: [_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,],
+
+	3: [_____,HEALTH,_____,LIFESPAN,_____,TEMPRESIS,_____,SPEED,_____,ACCELERATION,_____,_____,],
+	4: [_____,_____,STAMINA,_____,REPRO_SPEED,_____,REPRO_AGE,_____,SOILING,_____,_____,_____,],
+
+	5: [_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,],
+
+	6: [_____,LABORATORY,_____,LIBRARY,_____,UNIVERSITY,_____,EMBASSY,_____,ADMIN,_____,_____,],
+
+	7: [_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,],
+
+	8: [_____,NURSEY,_____,BREEDER,_____,SCHOOL,_____,_____,_____,_____,_____,_____,],
+
+	9: [_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,],
+
+	10: [_____,MAINTENANCE,_____,SPOILAGE,_____,FURNISH,_____,INNOVATION,_____,STOCKPILE,_____,DEFLATION,],
+	11: [_____,LAW,_____,INMIGRATION,_____,NOBILITIES_PROMOTION,_____,NOBILITIES,_____,PACIFISM,_____,EMISSARY,],
+	12: [_____,CIVIC_ADMIN,_____,ACCIDENT,_____,GOV,_____,KNOWLEDGE,_____,OPINION,_____,TRUST,],
+
+	13: [_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,],
+
+	14: [_____,CARPENTRY,_____,TAILOR,_____,BOWYER,_____,POTTERY,_____,SMITHY,_____,_____,],
+	15: [_____,PAPERMAKING,_____,MECHANIC,_____,MASON,_____,JEWELRY,_____,RATIONMAKING,_____,_____,],
+
+	16: [_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,],
+
+	17: [_____,ORE,_____,COAL,_____,CLAY,_____,STONE,_____,_____,_____,_____,],
+	18: [_____,_____,GEM,_____,SITHILON,_____,WOODCUTTER,_____,_____,_____,_____,_____,],
+
+	19: [_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,],
+
+	20: [_____,HERBS,_____,GRAIN,_____,COTTON,_____,SPICES,_____,_____,_____,_____,],
+	21: [_____,FRUIT,_____,ORCHARD,_____,VEGETABLES,_____,MUSHROOM,_____,_____,_____,_____,],
+
+	22: [_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,],
+
+	23: [_____,HUNTER,_____,FISHERY,_____,ENTELOPE,_____,AUROCH,_____,_____,_____,_____,],
+	24: [_____,ONX,_____,GLOBDIEN,_____,BALTI,_____,WAR_BEAST,_____,_____,_____,_____,],
+
+	25: [_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,],
+
+	26: [_____,BAKERY,_____,BREWERY,_____,WEAVER,_____,SMELTER,_____,CHARCOAL,_____,_____,],
+
+	27: [_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,_____,],
+
+	28: [_____,BARRACKS,_____,ARCHERY,_____,SKILLBOW,_____,OFFENCESKILL,_____,DEFENCESKILL,_____,_____,],
+	29: [_____,PIERCE,_____,SLASH,_____,BLOCK,_____,MORALE,_____,FORCE,_____,_____,],
+	30: [_____,_____,FORMATION,_____,CHARGE,_____,DEXTERITY,_____,HITPOINTS,_____,_____,_____,],
+},
+
+TECHS: 
+{
+	HAPPINESS: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BEHAVIOUR_HAPPINESS>ADD: 0.1,
+		},
+	},
+
+	LAWFULNESS: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BEHAVIOUR_LAWFULNESS>ADD: 0.1,
+		},
+	},
+
+	LOYALTY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BEHAVIOUR_LOYALTY>ADD: 0.1,
+		},
+	},
+	
+	SANITY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BEHAVIOUR_SANITY>ADD: 0.1,
+		},
+	},
+
+	SUBMISSION: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BEHAVIOUR_SUBMISSION>ADD: 0.1,
+		},
+	},
+
+	HAPPINESS_SLAVES: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BEHAVIOUR_HAPPINESS_SLAVES>ADD: 0.1,
+		},
+	},
+
+	ACCIDENT: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_ACCIDENT>ADD: 0.1,
+		},
+	},
+
+	INNOVATION: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_INNOVATION>MUL: 1.1,
+		},
+	},
+
+	DEFLATION: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_DEFLATION>ADD: 0.1,
+		},
+	},
+
+	EMISSARY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_DIPLOMACY>ADD: 0.1,
+		},
+	},
+
+	FURNISH: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_FURNITURE>ADD: 0.1,
+		},
+	},
+
+	INMIGRATION: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_IMMIGRATION>ADD: 0.1,
+		},
+	},
+
+	KNOWLEDGE: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_KNOWLEDGE>MUL: 1.1,
+		},
+	},
+
+	LAW: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_LAW>ADD: 0.1,
+		},
+	},
+
+	MAINTENANCE: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_MAINTENANCE>ADD: 0.1,
+		},
+	},
+
+	NOBILITIES: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_NOBLES_MAX>ADD: 0.1,
+		},
+	},
+
+	NOBILITIES_PROMOTION: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_NOBLES_RANKS_MAX>ADD: 0.1,
+		},
+	},
+
+	OPINION: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_OPINION>ADD: 0.1,
+		},
+	},
+
+	PACIFISM: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_RAIDING>ADD: 0.1,
+		},
+	},
+	
+	SPOILAGE: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_SPOILAGE>ADD: 0.1,
+		},
+	},
+	
+	STOCKPILE: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_STOCKPILE>ADD: 0.2,
+		},
+	},
+
+	TRUST:
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_TRUST>ADD: 0.1,
+		},
+	},
+
+	GOV:
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_GOV>ADD: 0.1,
+		},
+	},
+
+	CIVIC_ADMIN:
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			CIVIC_ADMIN>ADD: 0.1,
+		},
+	},
+
+	BOWYER: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_WORKSHOP_BOWYER>ADD: 0.1,
+		},
+	},
+
+	CARPENTRY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_WORKSHOP_CARPENTER>ADD: 0.1,
+		},
+	},
+
+	JEWELRY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_WORKSHOP_JEWELRY>ADD: 0.1,
+		},
+	},
+
+	MASON: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_WORKSHOP_MASON>ADD: 0.1,
+		},
+	},
+
+	MECHANIC: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_WORKSHOP_MECHANIC>ADD: 0.1,
+		},
+	},
+
+	PAPERMAKING: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_WORKSHOP_PAPER>ADD: 0.1,
+		},
+	},
+
+	POTTERY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_WORKSHOP_POTTERY>ADD: 0.1,
+		},
+	},
+
+	RATIONMAKING: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_WORKSHOP_RATION>ADD: 0.1,
+		},
+	},
+
+	SMITHY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_WORKSHOP_SMITHY>ADD: 0.1,
+		},
+	},
+	
+	TAILOR: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_WORKSHOP_TAILOR>ADD: 0.1,
+		},
+	},
+
+	CLAY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_MINE_CLAY>ADD: 0.1,
+		},
+	},
+
+	COAL: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_MINE_COAL>ADD: 0.1,
+		},
+	},
+
+	GEM: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_MINE_GEM>ADD: 0.1,
+		},
+	},
+
+	ORE: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_MINE_ORE>ADD: 0.1,
+		},
+	},
+
+	SITHILON: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_MINE_SITHILON>ADD: 0.1,
+		},
+	},
+
+	STONE: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_MINE_STONE>ADD: 0.1,
+		},
+	},
+	
+	WOODCUTTER: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_WOODCUTTER>ADD: 0.1,
+		},
+	},
+
+	ARCHERY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_ARCHERY_VANILLA>ADD: 0.1,
+		},
+	},
+
+	BARRACKS: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_BARRACKS_VANILLA>ADD: 0.1,
+		},
+	},
+
+	DEFENCESKILL: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BATTLE_DEFENCE_SKILL>ADD: 0.1,
+		},
+	},
+
+	FORCE: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BATTLE_BLUNT_ATTACK>ADD: 0.1,
+		},
+	},
+
+	HITPOINTS: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BATTLE_BLUNT_DEFENCE>ADD: 0.1,
+		},
+	},
+
+	MORALE: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BATTLE_MORALE>ADD: 0.1,
+		},
+	},
+
+	OFFENCESKILL: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BATTLE_OFFENCE_SKILL>ADD: 0.1,
+		},
+	},
+
+	PIERCE: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BATTLE_PIERCE_ATTACK>ADD: 0.1,
+			BATTLE_PIERCE_DEFENCE>ADD: 0.1,
+		},
+	},
+
+	SKILLBOW: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BATTLE_RANGED_BOW>ADD: 0.1,
+		},
+	},
+
+	SLASH: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BATTLE_SLASH_ATTACK>ADD: 0.1,
+			BATTLE_SLASH_DEFENCE>ADD: 0.1,
+		},
+	},
+
+	BLOCK: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BATTLE_BLOCK>ADD: 0.1,
+			BATTLE_BLUNT_DEFENCE_DIR>ADD: 0.1,
+			BATTLE_PIERCE_DEFENCE_DIR>ADD: 0.1,
+			BATTLE_SLASH_DEFENCE_DIR>ADD: 0.1,
+		},
+	},
+
+	DEXTERITY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BATTLE_DEXTERITY>ADD: 0.1,
+		},
+	},
+
+	CHARGE: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BATTLE_CHARGE>ADD: 0.1,
+		},
+	},
+	
+	FORMATION:
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			BATTLE_FORMATION_SKILL>ADD: 0.1,
+		},
+	},
+
+	COTTON: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_FARM_COTTON>ADD: 0.1,
+		},
+	},
+
+	FRUIT: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_FARM_FRUIT>ADD: 0.1,
+		},
+	},
+
+	GRAIN: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_FARM_GRAIN>ADD: 0.1,
+		},
+	},
+
+	HERBS: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_FARM_HERB>ADD: 0.1,
+		},
+	},
+
+	MUSHROOM: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_FARM_MUSHROOM>ADD: 0.1,
+		},
+	},
+
+	ORCHARD: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_ORCHARD_FRUIT>ADD: 0.1,
+		},
+	},
+
+	SPICES: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_FARM_SPICES>ADD: 0.1,
+		},
+	},
+	
+	VEGETABLES: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_FARM_VEG>ADD: 0.1,
+		},
+	},
+
+	AUROCH: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_PASTURE_AUR>ADD: 0.1,
+		},
+	},
+
+	BALTI: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_PASTURE_BALTI>ADD: 0.1,
+		},
+	},
+
+	ENTELOPE: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_PASTURE_ENT>ADD: 0.1,
+		},
+	},
+
+	FISHERY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_FISHERY_NORMAL>ADD: 0.1,
+		},
+	},
+
+	GLOBDIEN: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_PASTURE_GLOBDIEN>ADD: 0.1,
+		},
+	},
+
+	HUNTER: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_HUNTER_NORMAL>ADD: 0.1,
+		},
+	},
+
+	ONX: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_PASTURE_ONX>ADD: 0.1,
+		},
+	},
+	
+	WAR_BEAST: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_PASTURE_MOUNT>ADD: 0.1,
+		},
+	},
+
+	BAKERY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_REFINER_BAKERY>ADD: 0.1,
+		},
+	},
+	
+	BREWERY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_REFINER_BREWERY>ADD: 0.1,
+		},
+	},
+
+	CHARCOAL: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_REFINER_COALER>ADD: 0.1,
+		},
+	},
+
+	SMELTER: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_REFINER_SMELTER>ADD: 0.1,
+		},
+	},
+	
+	WEAVER: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_REFINER_WEAVER>ADD: 0.1,
+		},
+	},
+
+	NURSEY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_NURSERY_NORMAL>ADD: 0.1,
+		},
+	},
+
+	BREEDER: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_BREEDER_GARTHIMI>ADD: 0.1,
+		},
+	},
+
+	SCHOOL:
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_SCHOOL_NORMAL>ADD: 0.1,
+		},
+	},
+
+	ADMIN: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_ADMIN_NORMAL>ADD: 0.1,
+		},
+	},
+
+	LABORATORY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_LABORATORY_NORMAL>ADD: 0.1,
+		},
+	},
+
+	LIBRARY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_LIBRARY_NORMAL>ADD: 0.1,
+		},
+	},
+	
+	UNIVERSITY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_UNIVERSITY_NORMAL>ADD: 0.1,
+		},
+	},
+
+	EMBASSY: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			ROOM_EMBASSY>ADD: 0.1,
+		},
+	},
+
+	ACCELERATION: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			PHYSICS_ACCELERATION>ADD: 0.1,
+		},
+	},
+
+	HEALTH: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			PHYSICS_HEALTH>ADD: 0.1,
+		},
+	},
+
+	LIFESPAN: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			PHYSICS_DEATH_AGE>ADD: 0.1,
+		},
+	},
+
+	SOILING: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			PHYSICS_SOILING>ADD: 0.1,
+		},
+	},
+
+	SPEED: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			PHYSICS_SPEED>ADD: 0.1,
+		},
+	},
+
+	STAMINA: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			PHYSICS_STAMINA>ADD: 0.1,
+		},
+	},
+	
+	TEMPRESIS: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			PHYSICS_RESISTANCE_HOT>ADD: 0.1,
+			PHYSICS_RESISTANCE_COLD>ADD: 0.1,
+		},
+	},
+
+	REPRO_AGE: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			PHYSICS_REPRODUCTION_AGE>ADD: 0.1,
+		},
+	},
+
+	REPRO_SPEED: 
+	{
+		AI_AMOUNT: 0.0,
+		LEVEL_MAX: 20,
+		COSTS: 
+		{
+			CIVIC_INNOVATION: 1.0,
+		},
+		BOOST: 
+		{
+			PHYSICS_REPRODUCTION_SPEED>ADD: 0.1,
+		},
+	},
+},

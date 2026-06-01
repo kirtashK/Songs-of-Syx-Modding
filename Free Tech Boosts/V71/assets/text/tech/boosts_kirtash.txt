@@ -1,0 +1,471 @@
+NAME: "Boosts",
+TECHS: 
+{
+	HAPPINESS: 
+    {
+		NAME: "Happiness boost",
+		DESC: "Boost to happiness.",
+	},
+	HAPPINESS_SLAVES:
+	{
+		NAME: "Slave happiness boost",
+		DESC: "Boost to slaves' happiness.",
+	},
+	LAWFULNESS: 
+    {
+		NAME: "Lawfulness boost",
+		DESC: "Boost to lawfulness.",
+	},
+	LOYALTY: 
+    {
+		NAME: "Loyalty boost",
+		DESC: "Boosts the Loyalty of your citizens, reducing riots and usurping.",
+	},
+	SANITY: 
+    {
+		NAME: "Sanity boost",
+        DESC: "Reduces the chances of a subject becoming insane.",
+	},
+	SUBMISSION: 
+    {
+		NAME: "Submission boost",
+        DESC: "Slaves will revolt less.",
+	},
+	ACCIDENT: 
+    {
+		NAME: "Accident prevention boost",
+        DESC: "Reduce accident rate.",
+	},
+	GOV:
+	{
+		NAME: "Government points boost",
+        DESC: "Boost to government points.",
+	},
+	INNOVATION: 
+    {
+		NAME: "Innovation boost",
+        DESC: "Boost innovation.",
+	},
+	DEFLATION: 
+    {
+		NAME: "Deflation boost",
+        DESC: "Decreases deflation, meaning you lose less by it.",
+	},
+	EMISSARY: 
+    {
+		NAME: "Emissary points boost",
+        DESC: "Boost to emissary points.",
+	},
+	FURNISH: 
+    {
+		NAME: "Furnish boost",
+        DESC: "Furnish gets used slower.",
+	},
+	INMIGRATION: 
+    {
+		NAME: "Inmigration boost",
+        DESC: "Increases the rate at which inmigrations happen.",
+	},
+	KNOWLEDGE: 
+    {
+		NAME: "Knowledge boost",
+        DESC: "Boost to knowledge.",
+	},
+	LAW: 
+    {
+		NAME: "Law boost",
+        DESC: "Boost to law.",
+	},
+	MAINTENANCE: 
+    {
+		NAME: "Maintenance boost",
+        DESC: "Boost to maintenance.",
+	},
+	NOBILITIES: 
+    {
+		NAME: "Nobilities boost",
+        DESC: "Boost to nobilities.",
+	},
+	NOBILITIES_PROMOTION: 
+    {
+		NAME: "Nobilities promotion boost",
+        DESC: "Boost to nobilities promotions.",
+	},
+	CIVIC_ADMIN:
+	{
+		NAME: "Administration boost",
+        DESC: "Boost to administration.",
+	},
+	TRUST:
+	{
+		NAME: "Trust boost",
+        DESC: "Boost to trust.",
+	},
+	OPINION: 
+    {
+		NAME: "Opinion boost",
+        DESC: "Boost to opinion.",
+	},
+	PACIFISM: 
+    {
+		NAME: "Pacifism boost",
+        DESC: "Reduces the chances of being raided.",
+	},
+	SPOILAGE: 
+    {
+		NAME: "Spoilage prevention boost",
+        DESC: "Reduces spoilage.",
+	},
+	STOCKPILE: 
+    {
+		NAME: "Hauler boost",
+        DESC: "Hauler can hold more items.",
+	},
+	BOWYER: 
+    {
+		NAME: "Bowyer boost",
+        DESC: "Boost to bowyer's production.",
+	},
+	CARPENTRY: 
+    {
+		NAME: "Carpentry boost",
+        DESC: "Boost to carpentry's production.",
+	},
+	JEWELRY: 
+    {
+		NAME: "Jewelry boost",
+        DESC: "Boost to jewelry's production.",
+	},
+	MASON: 
+    {
+		NAME: "Mason boost",
+        DESC: "Boost to mason's production.",
+	},
+	MECHANIC: 
+    {
+		NAME: "Mechanic boost",
+        DESC: "Boost to mechanic's production.",
+	},
+	PAPERMAKING: 
+    {
+		NAME: "Papermaking boost",
+        DESC: "Boost to papermaking's production.",
+	},
+	POTTERY: 
+    {
+		NAME: "Pottery boost",
+        DESC: "Boost to pottery's production.",
+	},
+	RATIONMAKING: 
+    {
+		NAME: "Rationmaking boost",
+        DESC: "Boost to rationmaking's production.",
+	},
+	SMITHY: 
+    {
+		NAME: "Smithy boost",
+        DESC: "Boost to smithy's production.",
+	},
+	TAILOR: 
+    {
+		NAME: "Tailor boost",
+        DESC: "Boost to tailor's production.",
+	},
+	CLAY: 
+    {
+		NAME: "Clay boost",
+		DESC: "Boost to clay extraction.",
+	},
+	COAL: 
+    {
+		NAME: "Coal boost",
+		DESC: "Boost to coal extraction.",
+	},
+	GEM: 
+    {
+		NAME: "Gem boost",
+		DESC: "Boost to gem extraction.",
+	},
+	ORE: 
+    {
+		NAME: "Ore boost",
+		DESC: "Boost to ore extraction.",
+	},
+	SITHILON: 
+    {
+		NAME: "Sithilon boost",
+		DESC: "Boost to sithilon extraction.",
+	},
+	STONE: 
+    {
+		NAME: "Stone boost",
+		DESC: "Boost to stone extraction.",
+	},
+	WOODCUTTER: 
+    {
+		NAME: "Woodcutter boost",
+		DESC: "Boost to wood extraction.",
+	},
+	COTTON: 
+    {
+		NAME: "Cotton boost",
+        DESC: "Boost to cotton farms.",
+	},
+	FRUIT: 
+    {
+		NAME: "Fruit farm boost",
+        DESC: "Boost to fruit farms.",
+	},
+	GRAIN: 
+    {
+		NAME: "Grain boost",
+        DESC: "Boost to grain farms.",
+	},
+	HERBS: 
+    {
+		NAME: "Herbs boost",
+        DESC: "Boost to herbs farms.",
+	},
+	MUSHROOM: 
+    {
+		NAME: "Mushroom boost",
+        DESC: "Boost to mushroom farms.",
+	},
+	ORCHARD: 
+    {
+		NAME: "Fruit orchard boost",
+        DESC: "Boost to orchards.",
+	},
+	SPICES: 
+    {
+		NAME: "Opiates boost",
+        DESC: "Boost to spices farms.",
+	},
+    VEGETABLES: 
+    {
+		NAME: "Vegetables boost",
+        DESC: "Boost to vegetables farms.",
+	},
+	AUROCH: 
+    {
+		NAME: "Auroch boost",
+        DESC: "Boost to auroch pastures.",
+	},
+	BALTI: 
+    {
+		NAME: "Balticrawler boost",
+        DESC: "Boost to balticrawler pastures.",
+	},
+	ENTELOPE: 
+    {
+		NAME: "Entelope boost",
+        DESC: "Boost to entelope pastures.",
+	},
+	FISHERY: 
+    {
+		NAME: "Fishery boost",
+        DESC: "Boost to fishing.",
+	},
+	GLOBDIEN: 
+    {
+		NAME: "Globdien boost",
+        DESC: "Boost to globdien pastures.",
+	},
+	HUNTER: 
+    {
+		NAME: "Hunter boost",
+        DESC: "Boost to hunting.",
+	},
+	ONX: 
+    {
+		NAME: "Onx boost",
+        DESC: "Boost to onx pastures.",
+	},
+	WAR_BEAST: 
+    {
+		NAME: "War beast boost",
+        DESC: "Boost to war beast pastures.",
+	},
+	ADMIN: 
+    {
+		NAME: "Administration boost",
+        DESC: "Boost to administration.",
+	},
+	LABORATORY: 
+    {
+		NAME: "Laboratory boost",
+        DESC: "Boost to laboratories.",
+	},
+	EMBASSY: 
+    {
+		NAME: "Embassy boost",
+        DESC: "Boost to embassies.",
+	},
+	LIBRARY: 
+    {
+		NAME: "Library boost",
+        DESC: "Boost to libraries.",
+	},
+	UNIVERSITY: 
+    {
+		NAME: "University boost",
+        DESC: "Boost to universities.",
+	},
+	ARCHERY: 
+    {
+		NAME: "Archery training speed boost",
+		DESC: "Boost to training archery skill speed.",
+	},
+	BARRACKS: 
+    {
+		NAME: "Melee training speed boost",
+		DESC: "Boost to training melee skill speed.",
+	},
+	DEFENCESKILL: 
+    {
+		NAME: "Defence skill boost",
+		DESC: "Boost to defence.",
+	},
+	FORCE: 
+    {
+		NAME: "Force boost",
+		DESC: "Boost to force.",
+	},
+	HITPOINTS: 
+    {
+		NAME: "Hitpoints boost",
+		DESC: "Boost to hitpoints.",
+	},
+	MORALE: 
+    {
+		NAME: "Morale boost",
+		DESC: "Boost to morale.",
+	},
+    OFFENCESKILL: 
+    {
+		NAME: "Offence skill boost",
+		DESC: "Boost the chance of landing a hit.",
+	},
+	PIERCE: 
+    {
+		NAME: "Pierce damage and defence boost",
+		DESC: "Boost to piercing.",
+	},
+	SKILLBOW: 
+    {
+		NAME: "Bow skill boost",
+		DESC: "Boost to archery.",
+	},
+	SLASH: 
+    {
+		NAME: "Slash damage and defence boost",
+		DESC: "Boost to slashing.",
+	},
+	BLOCK: 
+    {
+		NAME: "Block boost",
+		DESC: "Boost to blocking.",
+	},
+	DEXTERITY: 
+    {
+		NAME: "Dexterity boost",
+		DESC: "Boost to dexterity, you get the drill by now.",
+	},
+	CHARGE:
+	{
+		NAME: "Charge boost",
+		DESC: "Boost to charging.",
+	},
+	FORMATION:
+	{
+		NAME: "Formation boost",
+		DESC: "Boost to maintaining formation.",
+	},
+	NURSEY: 
+    {
+		NAME: "Nursery boost",
+		DESC: "Boost to nurseries.",
+	},
+	BREEDER: 
+    {
+		NAME: "Garthimi's  breeder boost",
+		DESC: "Boost to Garthimi breeders.",
+	},
+	SCHOOL:
+	{
+		NAME: "School boost",
+		DESC: "Boost to school.",
+	},
+	ACCELERATION: 
+    {
+		NAME: "Acceleration boost",
+		DESC: "Boost to acceleration.",
+	},
+	HEALTH: 
+    {
+		NAME: "Health boost",
+		DESC: "Boost to health.",
+
+	},
+	LIFESPAN: 
+    {
+		NAME: "Lifespan boost",
+		DESC: "Boost to lifespan.",
+	},
+	SOILING: 
+    {
+		NAME: "Soiling boost",
+		DESC: "Reduce how often citizens become dirty.",
+	},
+	SPEED: 
+    {
+		NAME: "Speed boost",
+		DESC: "Boost to speed.",
+	},
+	STAMINA: 
+    {
+		NAME: "Stamina boost",
+		DESC: "Boost to stamina.",
+	},
+	TEMPRESIS: 
+    {
+		NAME: "Temperature resistance boost",
+		DESC: "Extra boost, both for cold and heat resistances.",
+	},
+	REPRO_SPEED: 
+    {
+		NAME: "Natural births",
+		DESC: "Boost to reproduction speed.",
+	},
+	REPRO_AGE: 
+    {
+		NAME: "Reproduction age",
+		DESC: "Boost to reproduction age.",
+	},
+	BAKERY: 
+    {
+		NAME: "Bakery boost",
+		DESC: "Boost to bakeries.",
+	},
+	BREWERY: 
+    {
+		NAME: "Brewery boost",
+		DESC: "Boost to breweries.",
+
+	},
+	CHARCOAL: 
+    {
+		NAME: "Charcoal boost",
+		DESC: "Boost to charcoal refineries.",
+	},
+	SMELTER: 
+    {
+		NAME: "Smelter boost",
+		DESC: "Boost to smelteries.",
+	},
+	WEAVER: 
+    {
+		NAME: "Weaver boost",
+		DESC: "Boost to weavers.",
+	},
+},
