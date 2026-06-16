@@ -1,0 +1,9 @@
+NAME: "Patriotic",
+TITLE: "The Patriotic",
+DESC: "Someone who loves your kingdom, will behave better than the rest, and trains faster.",
+
+BIO_DESC: 
+[
+	"During {HIS} free time, {NAME} trains and spars. 'I must stay strong for the kingdom, milord'.",
+    "Always praising your kingdom.",
+],

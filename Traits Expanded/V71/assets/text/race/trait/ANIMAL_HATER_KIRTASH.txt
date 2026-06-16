@@ -1,0 +1,10 @@
+NAME: "Animal Hater",
+TITLE: "The Cruel",
+DESC: "Someone who enjoys killing animals.",
+
+BIO_DESC: 
+[
+	"Likes hurting animals on {HIS} free time.",
+    "Is drawn to the thrill of the hunt.",
+    "Spent much of {HIS} childhood fishing.",
+],

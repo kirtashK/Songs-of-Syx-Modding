@@ -94,8 +94,20 @@ Adapt to work with vanilla files where it makes sense (example: wooden clubs on 
 	- [x] Change info & desc (refers to jewelry)
 - [x] Ranged training speed 3119920344
 	- [x] Improve description, too messy
+- [x] Traits Expanded 3123118819
+	- [x] Use suggestions from zip in desktop
+		- [x] Give credit in description to Arrevax (check discord)
+
+#### Version \[V72]
+
+- [ ] Arsenal Expanded 3130192483
+- [ ] Clothing Expanded 3126483222
+- [ ] Free Tech Boosts 3120833855
+	- [ ] Check if new techs needed
+	- [ ] Split big tech tree into 2-3 smaller trees?
+- [ ] Hunter Expanded 3133779397
+- [ ] Less Spoilage 3119875979
+- [ ] Ranged training speed 3119920344
 - [ ] Traits Expanded 3123118819
 	- [ ] Freshen up the texts so they are more vanilla-like
-	- [ ] Use suggestions from zip in desktop
-		- [ ] Give credit in description to Arrevax (check discord)
-
+	- [ ] Add new traits? Could be just flair, no stat changes

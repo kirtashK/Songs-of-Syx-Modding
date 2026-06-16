@@ -1,5 +1,5 @@
 [h3] Supported versions [/h3]
-V65 - V70
+V65 - V71
 
 [h3] Description [/h3]
 Traits Expanded adds the following traits:
@@ -27,6 +27,9 @@ This mod only adds, it doesnt touch any vanilla file, therefore it should be com
 Requires a new save, cant be removed from a save.
 
 [h3] Notes [/h3]
+
+Arrevax gave suggestions to improve the descriptions of some traits, thank you! <3
+
 If you find any bug or error, let me know.
 Got any ideas for a new trait? Post a comment!
 Any feedback is welcome, have fun and enjoy :)
