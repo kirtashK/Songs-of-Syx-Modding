@@ -1,0 +1,3 @@
+NAME: "Overall",
+NAMES: "Overalls",
+DESC: "Overalls improve the wearer ability in farms, orchards and pastures. However, they dont last long.",

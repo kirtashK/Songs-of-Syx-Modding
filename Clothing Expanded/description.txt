@@ -1,5 +1,5 @@
 [h3] Supported versions [/h3]
-V65 - V70
+V65 - V71
 
 [h3] Description [/h3]
 Adds the following items that can be equipped by citizens just like vanilla clothes to gain bonuses or fulfillment:
@@ -23,8 +23,7 @@ This mod only adds, it doesnt touch any vanilla file, therefore it should be com
 Requires a new save, cant be removed from a save.
 
 [h3] Notes [/h3]
-These items give boosts to the citizen wearing it, they arent global, if you have 100 citizens and only 50 overalls, only 50 citizens will be able to wear them once you assign it and gain the overalls boost.
-If you see that the technology tree has a line connecting two nodes, its a vanilla thing that I cant modify, basically any requisites from other trees get a line connecting the nodes.
+These items give boosts to the citizen wearing it, they arent global, if you have 100 citizens and only 50 overalls, only 50 citizens will be able to wear them (need to assign it first) and gain the boost.
 You can equip all these items at the same time, I would had liked to only allow one at a time so you specialize your citizens, for example cretonians with overalls, however this is not possible to do unless I add java code.
 
 If you find any bug or error, let me know

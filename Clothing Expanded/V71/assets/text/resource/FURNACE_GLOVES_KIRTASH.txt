@@ -1,0 +1,3 @@
+NAME: "Furnace glove",
+NAMES: "Furnace gloves",
+DESC: "Furnace gloves improve the wearer ability in refineries and workshops. However, they dont last long.",

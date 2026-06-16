@@ -1,0 +1,44 @@
+INFO: {
+	NAME: "Clothier",
+	NAMES: "Clothiers",
+	DESC: "Workshop that sews clothes.",
+},
+
+BONUS: {
+	NAME: "Tailoring",
+	DESC: "Increases effectiveness of Clothiers",
+},
+
+WORK: {
+	TITLE: "Clothier",
+	VERB: "Making Clothes",
+},
+
+STATS: [
+	{
+		NAME: "Workers",
+		DESC: "The amount of workers",
+	},
+	{
+		NAME: "Efficiency",
+		DESC: "Efficiency increases production",
+	},
+	{
+		
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Storage",
+		DESC: "The internal storage for produce.",
+	},
+	{
+		NAME: "Work Bench",
+		DESC: "Where subjects work",
+	},
+	{
+		NAME: "Auxiliary Station",
+		DESC: "Adds Efficiency to the room",
+	},
+],

@@ -1,0 +1,3 @@
+NAME: "Lantern",
+NAMES: "Lanterns",
+DESC: "Lanterns improve the wearer ability in mines and reduce accidents rate. However, they dont last long.",

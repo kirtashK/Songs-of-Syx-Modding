@@ -71,7 +71,7 @@ Adapt to work with vanilla files where it makes sense (example: wooden clubs on 
 	- [ ] Division types
 		- [ ] Update, some stuff is changed, like weapons having different roles or 1H to 2H etc
 		- [ ] Add crossbow training to crossbow div
-- [ ] Clothing Expanded 3126483222
+- [x] Clothing Expanded 3126483222
 - [x] Free Tech Boosts 3120833855
 	- [x] New techs
 		- [x] Gov boost CIVIC_GOV
