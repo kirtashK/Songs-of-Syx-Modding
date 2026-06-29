@@ -1,0 +1,3 @@
+NAME: "Morning star",
+NAMES: "Morning stars",
+DESC: "One handed version of the warhammer, deals less blunt damage but can be used with shields.",

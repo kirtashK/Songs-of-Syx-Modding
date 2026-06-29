@@ -1,0 +1,3 @@
+NAME: "Pike",
+NAMES: "Pikes",
+DESC: "Pikes have very long wooden polished shafts with a sharpened metal tip at the end, they deal high pierce damage.%r%Thanks to their length and pointy ends, all defenses are increased at the front while acceleration is reduced.",

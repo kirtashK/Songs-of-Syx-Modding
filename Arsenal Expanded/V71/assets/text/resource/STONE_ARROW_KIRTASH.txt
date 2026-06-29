@@ -1,0 +1,3 @@
+NAME: "Stone arrow",
+NAMES: "Stone arrows",
+DESC: "These arrows have a stone tip, which increases ranged skill.",

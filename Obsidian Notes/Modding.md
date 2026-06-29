@@ -50,27 +50,37 @@ __OVERWRITE: true, to overwrite a full vanilla file
 
 Adapt to work with vanilla files where it makes sense (example: wooden clubs on carpenter)
 
-- [ ] Arsenal Expanded 3130192483
-	- [ ] Metal spears change to one handed? make a bit weaker if so, differentiate them from pikes & vanilla spears
-	- [ ] Tech to boost crossbow training speed?
+- [x] Arsenal Expanded 3130192483
+	- [x] Removes save/campaign from V71 folder
+	- [x] Metal spears change to one handed? make a bit weaker if so, differentiate them from pikes & vanilla spears
+		- [x] Unlike vanilla spears, metal spears can be used with mounts
+			- [x] They also boost charge by 25%
+	- [x] Reduce frontal defenses of shield, spear & pike
+	- [x] Tech to boost crossbow training speed?
 	- [ ] Crossbow is too op compared to maxed bows
 		- [ ] Maybe change and make them different, instead of precise, long range & slow, turn into repeating crossbows? Probably not
-		- [ ] Too much blunt dmg, arrows are typically heavier (projectile speed?)
-		- [ ] Too much range (proj. speed?)
-		- [ ] High pierce damage
-		- [ ] Ammo seems balanced
-		- [ ] Reducing mass reduces damage output but range seems unnafected
-		- [ ] Reduce arc?
-		- [ ] Reduce maxed reload speed?
-		- [ ] Differentiate from bow:
-			- [ ] Crossbows require less training and less stamina
-			- [ ] Crossbows benefit less from training
-	- [ ] Stone & Metal arrows give too much of a boost, reduce?
-	- [ ] New armors? Chainmail?
-	- [ ] Icons of squad arent shown properly, it should be shield at left and weapons at right, but everything added by mod is at left
-	- [ ] Division types
-		- [ ] Update, some stuff is changed, like weapons having different roles or 1H to 2H etc
-		- [ ] Add crossbow training to crossbow div
+		- [x] Too much blunt dmg, arrows are typically heavier (projectile speed?)
+		- [x] Too much range (proj. speed?)
+		- [x] High pierce damage
+		- [x] Ammo seems balanced
+		- [x] Reducing mass reduces damage output but range seems unaffected
+		- [x] Reduce arc
+			- [x] Increased it to add range, since speed projectile got nerfed
+		- [x] Reduce maxed reload speed
+		- [x] Differentiate from bow:
+			- [x] Crossbows require less training
+			- [x] Crossbows benefit less from training
+	- [x] Stone & Metal arrows give too much of a boost, reduce
+	- [x] Whetsone
+		- [x] Multiplicative instead of additive, so spears (only pierce) don't receive slash damage
+	- [x] New armours? Chainmail?
+		- [x] Moved to V72
+	- [x] Icons of squad aren't shown properly, it should be shield at left and weapons at right, but everything added by mod is at left
+	- [x] Division types
+		- [x] Add crossbow training to crossbow div instead of archery training
+		- [x] Add variety to vanilla spear
+		- [x] Add modded spear
+		- [x] Mounted variety
 - [x] Clothing Expanded 3126483222
 - [x] Free Tech Boosts 3120833855
 	- [x] New techs
@@ -101,8 +111,15 @@ Adapt to work with vanilla files where it makes sense (example: wooden clubs on 
 #### Version \[V72]
 
 - [ ] Arsenal Expanded 3130192483
+	- [ ] New armours? Chainmail?
+	- [ ] Update infographics
+		- [ ] Spear is 1H, can be used with mounts
+		- [ ] Frontal defenses, shield groups blunt & slash, its wrong
+	- [ ] Is crossbow too op or weak compared to bows?
+		- [ ] If weak and lacking identity: maybe change and make them different, instead of precise, long range & slow, turn into repeating crossbows?
 - [ ] Clothing Expanded 3126483222
 - [ ] Free Tech Boosts 3120833855
+	- [ ] Workforce boost ?
 	- [ ] Check if new techs needed
 	- [ ] Split big tech tree into 2-3 smaller trees?
 - [ ] Hunter Expanded 3133779397

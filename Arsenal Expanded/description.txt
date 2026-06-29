@@ -1,9 +1,8 @@
 [h3] Supported versions [/h3]
-V65 - V70
+V65 - V71
 
 [h3] Description [/h3]
-Vanilla arsenal is a bit limited, there is: two handed sword, one handed sword, two handed hammer, spear, shield and bow.
-This mod aims to expand this aspect by adding the following items:
+Vanilla arsenal feels a bit limited, this mod aims to expand it by adding the following:
 
 [list]
 [img] https://i.imgur.com/y8twt3s.png [/img]
@@ -19,11 +18,22 @@ This mod aims to expand this aspect by adding the following items:
 [img] https://i.imgur.com/W3vO081.png [/img]
 [/list]
 
+Note! Some of the infographics above are for V70 and are outdated for V71 (dont have time to change it at the moment), some stats have changed:
+Crossbows are weaker, closer to bows. They might be too weak now, or still be strong, feedback is welcome, barelly had time to test.
+Pikes' frontal defenses are all 2x.
+Metal spears are one handed and can be used with mounts unlike vanilla spear. All frontal defenses are 1.5x. Charge is increased by 1.25x.
+Heavy shield's frontal defenses for slash and pierce are 2x, blunt remains 6x. Offense skill is reduced by 15% instead of 5%. Movement speed is reduced by 15% instead of 10%.
+Whetstone gives a multiplicative bonus (10%) instead of additive (1 damage). This means weapons that only do pierce damage dont deal extra slash damage.
+Stone arrows' boost is 0.2. Metal arrows' boost is 0.5.
+
 All these items are made at a new workshop, Armory.
-This mod also adds technology nodes to unlock the armory, boosts & upgrades to the armory, recipes, and for V66+, a training range to improve crossbow skill.
+There are technology nodes to unlock the armory, boosts & upgrades to the armory, aswell as recipes and crossbow training speed boosts.
+To improve crossbow skill you can use a shooting range, similar to bow training. Crossbow training is faster but a fully trained crossbowmen doesnt improve as much, mostly reload and accuracy.
 
 [h3] What about AI factions? [/h3]
-The mod adds new divisions along with the vanilla ones in order to allow AI to use these items, for example, you may find a division carrying plate armor, heavy shield and a morning star, as well as a division with armor leather, vanilla shield and dagger. In total, this mod adds 27 options for divisions, 8 of them being vanilla options carrying banners, whetsones or heavy shields.
+The mod adds new divisions along with the vanilla ones in order to allow AI to use these items.
+For example, you may find a division carrying plate armor, heavy shield and a morning star, as well as a division with armor leather, vanilla shield and dagger.
+In total, this mod adds 50 options for divisions, 16 of them being vanilla options carrying banners, whetsones, arrows or heavy shields.
 
 [h3] Compatibility [/h3]
 Doesnt touch vanilla files so it should be compatible with other mods.

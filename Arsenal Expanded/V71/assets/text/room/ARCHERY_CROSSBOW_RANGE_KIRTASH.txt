@@ -1,0 +1,41 @@
+INFO: 
+{
+	NAME: "Crossbow range",
+	NAMES: "Crossbow ranges",
+	DESC: "Train your soldiers to improve their crossbow skills.",
+	WIKI: {
+		CATEGORY: "Military",
+		NAME: "Crossbow Range",
+		TEXT: "Subjects who are part of a division can train here. The room can be used for both increasing crossbow skill and finishing basic training - the latter can be done even if the recruit's division does not have crossbow training assigned.
+		Training can take a long time, but tech and other things can increase the speed of it. Training is a full-time job, and subjects will not be able to do other work until they meet the training target of their division.
+		Crossbow training is shorter but doesnt improve crossbowmen as much. Fully trained crossbowmen are more used to its clunkiness and weight, countering part of the speed malus of crossbows.",
+	},
+},
+
+STATS: 
+[
+	{
+		NAME: "Capacity",
+		DESC: "The amount of soldiers this room can train",
+	},
+],
+
+ITEMS: 
+[
+	{
+		NAME: "Training Targets",
+		DESC: "Increases the amount of soldiers this room can train.",
+	},
+],
+
+EMPLOYMENT: 
+{
+	TITLE: "Conscript",
+	VERB: "Training",
+},
+
+TRAINING: 
+{
+	NAME: "Crossbow Training",
+	DESC: "Crossbow training, honed at the Crossbow Range. Increases crossbow skill and reduces the speed malus of using a crossbow.",
+},

@@ -1,0 +1,4 @@
+NAME: "Crossbow",
+NAMES: "Crossbows",
+DESC: "Crossbows are heavy, slow firing and with little arch, but precise and dealing high pierce damage.
+%r%Their weight and clunkiness slows the user, trained crossbowmen are less affected by it.",
